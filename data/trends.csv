@@ -1,0 +1,3001 @@
+Date,Zone,SKU,Trend_Score
+2025-04-27,Delhi,Milk,21
+2025-04-27,Nagpur,Milk,37
+2025-04-27,Pune,Milk,43
+2025-04-27,Chennai,Milk,78
+2025-04-27,Lucknow,Milk,58
+2025-04-27,Delhi,Chips,29
+2025-04-27,Nagpur,Chips,57
+2025-04-27,Pune,Chips,26
+2025-04-27,Chennai,Chips,66
+2025-04-27,Lucknow,Chips,42
+2025-04-27,Delhi,Soap,48
+2025-04-27,Nagpur,Soap,69
+2025-04-27,Pune,Soap,30
+2025-04-27,Chennai,Soap,29
+2025-04-27,Lucknow,Soap,41
+2025-04-27,Delhi,Water Bottle,65
+2025-04-27,Nagpur,Water Bottle,27
+2025-04-27,Pune,Water Bottle,7
+2025-04-27,Chennai,Water Bottle,43
+2025-04-27,Lucknow,Water Bottle,58
+2025-04-27,Delhi,Biscuits,68
+2025-04-27,Nagpur,Biscuits,43
+2025-04-27,Pune,Biscuits,43
+2025-04-27,Chennai,Biscuits,67
+2025-04-27,Lucknow,Biscuits,21
+2025-04-27,Delhi,Rice,44
+2025-04-27,Nagpur,Rice,52
+2025-04-27,Pune,Rice,56
+2025-04-27,Chennai,Rice,42
+2025-04-27,Lucknow,Rice,50
+2025-04-27,Delhi,Oil,12
+2025-04-27,Nagpur,Oil,40
+2025-04-27,Pune,Oil,56
+2025-04-27,Chennai,Oil,35
+2025-04-27,Lucknow,Oil,50
+2025-04-27,Delhi,Shampoo,56
+2025-04-27,Nagpur,Shampoo,44
+2025-04-27,Pune,Shampoo,52
+2025-04-27,Chennai,Shampoo,35
+2025-04-27,Lucknow,Shampoo,46
+2025-04-27,Delhi,Toothpaste,59
+2025-04-27,Nagpur,Toothpaste,52
+2025-04-27,Pune,Toothpaste,41
+2025-04-27,Chennai,Toothpaste,53
+2025-04-27,Lucknow,Toothpaste,60
+2025-04-27,Delhi,Juice,19
+2025-04-27,Nagpur,Juice,67
+2025-04-27,Pune,Juice,44
+2025-04-27,Chennai,Juice,56
+2025-04-27,Lucknow,Juice,67
+2025-04-28,Delhi,Milk,29
+2025-04-28,Nagpur,Milk,39
+2025-04-28,Pune,Milk,45
+2025-04-28,Chennai,Milk,38
+2025-04-28,Lucknow,Milk,76
+2025-04-28,Delhi,Chips,37
+2025-04-28,Nagpur,Chips,41
+2025-04-28,Pune,Chips,53
+2025-04-28,Chennai,Chips,31
+2025-04-28,Lucknow,Chips,44
+2025-04-28,Delhi,Soap,54
+2025-04-28,Nagpur,Soap,45
+2025-04-28,Pune,Soap,48
+2025-04-28,Chennai,Soap,42
+2025-04-28,Lucknow,Soap,27
+2025-04-28,Delhi,Water Bottle,54
+2025-04-28,Nagpur,Water Bottle,76
+2025-04-28,Pune,Water Bottle,50
+2025-04-28,Chennai,Water Bottle,53
+2025-04-28,Lucknow,Water Bottle,60
+2025-04-28,Delhi,Biscuits,30
+2025-04-28,Nagpur,Biscuits,75
+2025-04-28,Pune,Biscuits,53
+2025-04-28,Chennai,Biscuits,74
+2025-04-28,Lucknow,Biscuits,39
+2025-04-28,Delhi,Rice,77
+2025-04-28,Nagpur,Rice,61
+2025-04-28,Pune,Rice,58
+2025-04-28,Chennai,Rice,53
+2025-04-28,Lucknow,Rice,46
+2025-04-28,Delhi,Oil,68
+2025-04-28,Nagpur,Oil,52
+2025-04-28,Pune,Oil,20
+2025-04-28,Chennai,Oil,33
+2025-04-28,Lucknow,Oil,47
+2025-04-28,Delhi,Shampoo,54
+2025-04-28,Nagpur,Shampoo,49
+2025-04-28,Pune,Shampoo,68
+2025-04-28,Chennai,Shampoo,20
+2025-04-28,Lucknow,Shampoo,52
+2025-04-28,Delhi,Toothpaste,22
+2025-04-28,Nagpur,Toothpaste,61
+2025-04-28,Pune,Toothpaste,48
+2025-04-28,Chennai,Toothpaste,56
+2025-04-28,Lucknow,Toothpaste,37
+2025-04-28,Delhi,Juice,69
+2025-04-28,Nagpur,Juice,65
+2025-04-28,Pune,Juice,58
+2025-04-28,Chennai,Juice,48
+2025-04-28,Lucknow,Juice,58
+2025-04-29,Delhi,Milk,39
+2025-04-29,Nagpur,Milk,62
+2025-04-29,Pune,Milk,74
+2025-04-29,Chennai,Milk,66
+2025-04-29,Lucknow,Milk,39
+2025-04-29,Delhi,Chips,55
+2025-04-29,Nagpur,Chips,30
+2025-04-29,Pune,Chips,58
+2025-04-29,Chennai,Chips,56
+2025-04-29,Lucknow,Chips,21
+2025-04-29,Delhi,Soap,32
+2025-04-29,Nagpur,Soap,45
+2025-04-29,Pune,Soap,45
+2025-04-29,Chennai,Soap,31
+2025-04-29,Lucknow,Soap,55
+2025-04-29,Delhi,Water Bottle,53
+2025-04-29,Nagpur,Water Bottle,47
+2025-04-29,Pune,Water Bottle,38
+2025-04-29,Chennai,Water Bottle,65
+2025-04-29,Lucknow,Water Bottle,74
+2025-04-29,Delhi,Biscuits,42
+2025-04-29,Nagpur,Biscuits,40
+2025-04-29,Pune,Biscuits,57
+2025-04-29,Chennai,Biscuits,44
+2025-04-29,Lucknow,Biscuits,47
+2025-04-29,Delhi,Rice,61
+2025-04-29,Nagpur,Rice,21
+2025-04-29,Pune,Rice,69
+2025-04-29,Chennai,Rice,51
+2025-04-29,Lucknow,Rice,43
+2025-04-29,Delhi,Oil,48
+2025-04-29,Nagpur,Oil,49
+2025-04-29,Pune,Oil,24
+2025-04-29,Chennai,Oil,72
+2025-04-29,Lucknow,Oil,50
+2025-04-29,Delhi,Shampoo,56
+2025-04-29,Nagpur,Shampoo,64
+2025-04-29,Pune,Shampoo,34
+2025-04-29,Chennai,Shampoo,57
+2025-04-29,Lucknow,Shampoo,45
+2025-04-29,Delhi,Toothpaste,62
+2025-04-29,Nagpur,Toothpaste,18
+2025-04-29,Pune,Toothpaste,48
+2025-04-29,Chennai,Toothpaste,40
+2025-04-29,Lucknow,Toothpaste,56
+2025-04-29,Delhi,Juice,57
+2025-04-29,Nagpur,Juice,39
+2025-04-29,Pune,Juice,39
+2025-04-29,Chennai,Juice,48
+2025-04-29,Lucknow,Juice,36
+2025-04-30,Delhi,Milk,62
+2025-04-30,Nagpur,Milk,44
+2025-04-30,Pune,Milk,6
+2025-04-30,Chennai,Milk,44
+2025-04-30,Lucknow,Milk,34
+2025-04-30,Delhi,Chips,25
+2025-04-30,Nagpur,Chips,31
+2025-04-30,Pune,Chips,51
+2025-04-30,Chennai,Chips,69
+2025-04-30,Lucknow,Chips,54
+2025-04-30,Delhi,Soap,40
+2025-04-30,Nagpur,Soap,56
+2025-04-30,Pune,Soap,43
+2025-04-30,Chennai,Soap,39
+2025-04-30,Lucknow,Soap,32
+2025-04-30,Delhi,Water Bottle,23
+2025-04-30,Nagpur,Water Bottle,44
+2025-04-30,Pune,Water Bottle,52
+2025-04-30,Chennai,Water Bottle,48
+2025-04-30,Lucknow,Water Bottle,43
+2025-04-30,Delhi,Biscuits,35
+2025-04-30,Nagpur,Biscuits,59
+2025-04-30,Pune,Biscuits,30
+2025-04-30,Chennai,Biscuits,61
+2025-04-30,Lucknow,Biscuits,34
+2025-04-30,Delhi,Rice,38
+2025-04-30,Nagpur,Rice,27
+2025-04-30,Pune,Rice,42
+2025-04-30,Chennai,Rice,64
+2025-04-30,Lucknow,Rice,57
+2025-04-30,Delhi,Oil,64
+2025-04-30,Nagpur,Oil,57
+2025-04-30,Pune,Oil,33
+2025-04-30,Chennai,Oil,45
+2025-04-30,Lucknow,Oil,38
+2025-04-30,Delhi,Shampoo,69
+2025-04-30,Nagpur,Shampoo,32
+2025-04-30,Pune,Shampoo,63
+2025-04-30,Chennai,Shampoo,63
+2025-04-30,Lucknow,Shampoo,77
+2025-04-30,Delhi,Toothpaste,43
+2025-04-30,Nagpur,Toothpaste,60
+2025-04-30,Pune,Toothpaste,84
+2025-04-30,Chennai,Toothpaste,40
+2025-04-30,Lucknow,Toothpaste,26
+2025-04-30,Delhi,Juice,21
+2025-04-30,Nagpur,Juice,60
+2025-04-30,Pune,Juice,21
+2025-04-30,Chennai,Juice,44
+2025-04-30,Lucknow,Juice,56
+2025-05-01,Delhi,Milk,52
+2025-05-01,Nagpur,Milk,56
+2025-05-01,Pune,Milk,53
+2025-05-01,Chennai,Milk,69
+2025-05-01,Lucknow,Milk,35
+2025-05-01,Delhi,Chips,39
+2025-05-01,Nagpur,Chips,38
+2025-05-01,Pune,Chips,62
+2025-05-01,Chennai,Chips,63
+2025-05-01,Lucknow,Chips,56
+2025-05-01,Delhi,Soap,67
+2025-05-01,Nagpur,Soap,32
+2025-05-01,Pune,Soap,75
+2025-05-01,Chennai,Soap,72
+2025-05-01,Lucknow,Soap,61
+2025-05-01,Delhi,Water Bottle,76
+2025-05-01,Nagpur,Water Bottle,25
+2025-05-01,Pune,Water Bottle,42
+2025-05-01,Chennai,Water Bottle,38
+2025-05-01,Lucknow,Water Bottle,60
+2025-05-01,Delhi,Biscuits,34
+2025-05-01,Nagpur,Biscuits,61
+2025-05-01,Pune,Biscuits,70
+2025-05-01,Chennai,Biscuits,60
+2025-05-01,Lucknow,Biscuits,54
+2025-05-01,Delhi,Rice,35
+2025-05-01,Nagpur,Rice,37
+2025-05-01,Pune,Rice,68
+2025-05-01,Chennai,Rice,61
+2025-05-01,Lucknow,Rice,49
+2025-05-01,Delhi,Oil,43
+2025-05-01,Nagpur,Oil,19
+2025-05-01,Pune,Oil,33
+2025-05-01,Chennai,Oil,78
+2025-05-01,Lucknow,Oil,30
+2025-05-01,Delhi,Shampoo,52
+2025-05-01,Nagpur,Shampoo,65
+2025-05-01,Pune,Shampoo,31
+2025-05-01,Chennai,Shampoo,52
+2025-05-01,Lucknow,Shampoo,64
+2025-05-01,Delhi,Toothpaste,50
+2025-05-01,Nagpur,Toothpaste,93
+2025-05-01,Pune,Toothpaste,24
+2025-05-01,Chennai,Toothpaste,65
+2025-05-01,Lucknow,Toothpaste,47
+2025-05-01,Delhi,Juice,61
+2025-05-01,Nagpur,Juice,56
+2025-05-01,Pune,Juice,39
+2025-05-01,Chennai,Juice,53
+2025-05-01,Lucknow,Juice,22
+2025-05-02,Delhi,Milk,59
+2025-05-02,Nagpur,Milk,54
+2025-05-02,Pune,Milk,59
+2025-05-02,Chennai,Milk,65
+2025-05-02,Lucknow,Milk,55
+2025-05-02,Delhi,Chips,52
+2025-05-02,Nagpur,Chips,36
+2025-05-02,Pune,Chips,39
+2025-05-02,Chennai,Chips,67
+2025-05-02,Lucknow,Chips,71
+2025-05-02,Delhi,Soap,46
+2025-05-02,Nagpur,Soap,50
+2025-05-02,Pune,Soap,36
+2025-05-02,Chennai,Soap,67
+2025-05-02,Lucknow,Soap,59
+2025-05-02,Delhi,Water Bottle,79
+2025-05-02,Nagpur,Water Bottle,36
+2025-05-02,Pune,Water Bottle,44
+2025-05-02,Chennai,Water Bottle,53
+2025-05-02,Lucknow,Water Bottle,59
+2025-05-02,Delhi,Biscuits,46
+2025-05-02,Nagpur,Biscuits,36
+2025-05-02,Pune,Biscuits,63
+2025-05-02,Chennai,Biscuits,60
+2025-05-02,Lucknow,Biscuits,36
+2025-05-02,Delhi,Rice,70
+2025-05-02,Nagpur,Rice,67
+2025-05-02,Pune,Rice,52
+2025-05-02,Chennai,Rice,51
+2025-05-02,Lucknow,Rice,58
+2025-05-02,Delhi,Oil,37
+2025-05-02,Nagpur,Oil,50
+2025-05-02,Pune,Oil,17
+2025-05-02,Chennai,Oil,63
+2025-05-02,Lucknow,Oil,26
+2025-05-02,Delhi,Shampoo,72
+2025-05-02,Nagpur,Shampoo,45
+2025-05-02,Pune,Shampoo,46
+2025-05-02,Chennai,Shampoo,40
+2025-05-02,Lucknow,Shampoo,45
+2025-05-02,Delhi,Toothpaste,71
+2025-05-02,Nagpur,Toothpaste,12
+2025-05-02,Pune,Toothpaste,69
+2025-05-02,Chennai,Toothpaste,55
+2025-05-02,Lucknow,Toothpaste,31
+2025-05-02,Delhi,Juice,33
+2025-05-02,Nagpur,Juice,75
+2025-05-02,Pune,Juice,35
+2025-05-02,Chennai,Juice,32
+2025-05-02,Lucknow,Juice,67
+2025-05-03,Delhi,Milk,55
+2025-05-03,Nagpur,Milk,35
+2025-05-03,Pune,Milk,53
+2025-05-03,Chennai,Milk,34
+2025-05-03,Lucknow,Milk,66
+2025-05-03,Delhi,Chips,65
+2025-05-03,Nagpur,Chips,57
+2025-05-03,Pune,Chips,55
+2025-05-03,Chennai,Chips,76
+2025-05-03,Lucknow,Chips,49
+2025-05-03,Delhi,Soap,32
+2025-05-03,Nagpur,Soap,56
+2025-05-03,Pune,Soap,81
+2025-05-03,Chennai,Soap,34
+2025-05-03,Lucknow,Soap,44
+2025-05-03,Delhi,Water Bottle,56
+2025-05-03,Nagpur,Water Bottle,49
+2025-05-03,Pune,Water Bottle,35
+2025-05-03,Chennai,Water Bottle,66
+2025-05-03,Lucknow,Water Bottle,84
+2025-05-03,Delhi,Biscuits,52
+2025-05-03,Nagpur,Biscuits,36
+2025-05-03,Pune,Biscuits,26
+2025-05-03,Chennai,Biscuits,53
+2025-05-03,Lucknow,Biscuits,66
+2025-05-03,Delhi,Rice,57
+2025-05-03,Nagpur,Rice,49
+2025-05-03,Pune,Rice,41
+2025-05-03,Chennai,Rice,33
+2025-05-03,Lucknow,Rice,62
+2025-05-03,Delhi,Oil,63
+2025-05-03,Nagpur,Oil,26
+2025-05-03,Pune,Oil,73
+2025-05-03,Chennai,Oil,58
+2025-05-03,Lucknow,Oil,70
+2025-05-03,Delhi,Shampoo,29
+2025-05-03,Nagpur,Shampoo,29
+2025-05-03,Pune,Shampoo,47
+2025-05-03,Chennai,Shampoo,57
+2025-05-03,Lucknow,Shampoo,76
+2025-05-03,Delhi,Toothpaste,60
+2025-05-03,Nagpur,Toothpaste,46
+2025-05-03,Pune,Toothpaste,34
+2025-05-03,Chennai,Toothpaste,68
+2025-05-03,Lucknow,Toothpaste,35
+2025-05-03,Delhi,Juice,74
+2025-05-03,Nagpur,Juice,45
+2025-05-03,Pune,Juice,73
+2025-05-03,Chennai,Juice,60
+2025-05-03,Lucknow,Juice,47
+2025-05-04,Delhi,Milk,42
+2025-05-04,Nagpur,Milk,44
+2025-05-04,Pune,Milk,56
+2025-05-04,Chennai,Milk,51
+2025-05-04,Lucknow,Milk,41
+2025-05-04,Delhi,Chips,47
+2025-05-04,Nagpur,Chips,51
+2025-05-04,Pune,Chips,18
+2025-05-04,Chennai,Chips,56
+2025-05-04,Lucknow,Chips,35
+2025-05-04,Delhi,Soap,32
+2025-05-04,Nagpur,Soap,24
+2025-05-04,Pune,Soap,23
+2025-05-04,Chennai,Soap,29
+2025-05-04,Lucknow,Soap,39
+2025-05-04,Delhi,Water Bottle,79
+2025-05-04,Nagpur,Water Bottle,42
+2025-05-04,Pune,Water Bottle,52
+2025-05-04,Chennai,Water Bottle,56
+2025-05-04,Lucknow,Water Bottle,51
+2025-05-04,Delhi,Biscuits,48
+2025-05-04,Nagpur,Biscuits,32
+2025-05-04,Pune,Biscuits,71
+2025-05-04,Chennai,Biscuits,77
+2025-05-04,Lucknow,Biscuits,24
+2025-05-04,Delhi,Rice,34
+2025-05-04,Nagpur,Rice,45
+2025-05-04,Pune,Rice,35
+2025-05-04,Chennai,Rice,57
+2025-05-04,Lucknow,Rice,39
+2025-05-04,Delhi,Oil,82
+2025-05-04,Nagpur,Oil,67
+2025-05-04,Pune,Oil,53
+2025-05-04,Chennai,Oil,65
+2025-05-04,Lucknow,Oil,66
+2025-05-04,Delhi,Shampoo,41
+2025-05-04,Nagpur,Shampoo,37
+2025-05-04,Pune,Shampoo,51
+2025-05-04,Chennai,Shampoo,62
+2025-05-04,Lucknow,Shampoo,52
+2025-05-04,Delhi,Toothpaste,26
+2025-05-04,Nagpur,Toothpaste,37
+2025-05-04,Pune,Toothpaste,48
+2025-05-04,Chennai,Toothpaste,48
+2025-05-04,Lucknow,Toothpaste,79
+2025-05-04,Delhi,Juice,29
+2025-05-04,Nagpur,Juice,57
+2025-05-04,Pune,Juice,72
+2025-05-04,Chennai,Juice,84
+2025-05-04,Lucknow,Juice,43
+2025-05-05,Delhi,Milk,57
+2025-05-05,Nagpur,Milk,58
+2025-05-05,Pune,Milk,52
+2025-05-05,Chennai,Milk,48
+2025-05-05,Lucknow,Milk,56
+2025-05-05,Delhi,Chips,12
+2025-05-05,Nagpur,Chips,60
+2025-05-05,Pune,Chips,51
+2025-05-05,Chennai,Chips,46
+2025-05-05,Lucknow,Chips,80
+2025-05-05,Delhi,Soap,39
+2025-05-05,Nagpur,Soap,43
+2025-05-05,Pune,Soap,79
+2025-05-05,Chennai,Soap,37
+2025-05-05,Lucknow,Soap,41
+2025-05-05,Delhi,Water Bottle,47
+2025-05-05,Nagpur,Water Bottle,62
+2025-05-05,Pune,Water Bottle,53
+2025-05-05,Chennai,Water Bottle,30
+2025-05-05,Lucknow,Water Bottle,42
+2025-05-05,Delhi,Biscuits,40
+2025-05-05,Nagpur,Biscuits,48
+2025-05-05,Pune,Biscuits,56
+2025-05-05,Chennai,Biscuits,56
+2025-05-05,Lucknow,Biscuits,23
+2025-05-05,Delhi,Rice,65
+2025-05-05,Nagpur,Rice,53
+2025-05-05,Pune,Rice,70
+2025-05-05,Chennai,Rice,56
+2025-05-05,Lucknow,Rice,66
+2025-05-05,Delhi,Oil,56
+2025-05-05,Nagpur,Oil,70
+2025-05-05,Pune,Oil,57
+2025-05-05,Chennai,Oil,48
+2025-05-05,Lucknow,Oil,84
+2025-05-05,Delhi,Shampoo,63
+2025-05-05,Nagpur,Shampoo,58
+2025-05-05,Pune,Shampoo,30
+2025-05-05,Chennai,Shampoo,30
+2025-05-05,Lucknow,Shampoo,54
+2025-05-05,Delhi,Toothpaste,52
+2025-05-05,Nagpur,Toothpaste,40
+2025-05-05,Pune,Toothpaste,52
+2025-05-05,Chennai,Toothpaste,73
+2025-05-05,Lucknow,Toothpaste,60
+2025-05-05,Delhi,Juice,32
+2025-05-05,Nagpur,Juice,48
+2025-05-05,Pune,Juice,37
+2025-05-05,Chennai,Juice,44
+2025-05-05,Lucknow,Juice,43
+2025-05-06,Delhi,Milk,42
+2025-05-06,Nagpur,Milk,31
+2025-05-06,Pune,Milk,48
+2025-05-06,Chennai,Milk,41
+2025-05-06,Lucknow,Milk,6
+2025-05-06,Delhi,Chips,80
+2025-05-06,Nagpur,Chips,66
+2025-05-06,Pune,Chips,44
+2025-05-06,Chennai,Chips,50
+2025-05-06,Lucknow,Chips,32
+2025-05-06,Delhi,Soap,75
+2025-05-06,Nagpur,Soap,78
+2025-05-06,Pune,Soap,52
+2025-05-06,Chennai,Soap,65
+2025-05-06,Lucknow,Soap,52
+2025-05-06,Delhi,Water Bottle,29
+2025-05-06,Nagpur,Water Bottle,43
+2025-05-06,Pune,Water Bottle,51
+2025-05-06,Chennai,Water Bottle,43
+2025-05-06,Lucknow,Water Bottle,46
+2025-05-06,Delhi,Biscuits,48
+2025-05-06,Nagpur,Biscuits,48
+2025-05-06,Pune,Biscuits,50
+2025-05-06,Chennai,Biscuits,34
+2025-05-06,Lucknow,Biscuits,39
+2025-05-06,Delhi,Rice,30
+2025-05-06,Nagpur,Rice,64
+2025-05-06,Pune,Rice,18
+2025-05-06,Chennai,Rice,67
+2025-05-06,Lucknow,Rice,70
+2025-05-06,Delhi,Oil,45
+2025-05-06,Nagpur,Oil,10
+2025-05-06,Pune,Oil,44
+2025-05-06,Chennai,Oil,49
+2025-05-06,Lucknow,Oil,34
+2025-05-06,Delhi,Shampoo,42
+2025-05-06,Nagpur,Shampoo,72
+2025-05-06,Pune,Shampoo,59
+2025-05-06,Chennai,Shampoo,36
+2025-05-06,Lucknow,Shampoo,26
+2025-05-06,Delhi,Toothpaste,45
+2025-05-06,Nagpur,Toothpaste,46
+2025-05-06,Pune,Toothpaste,57
+2025-05-06,Chennai,Toothpaste,41
+2025-05-06,Lucknow,Toothpaste,57
+2025-05-06,Delhi,Juice,79
+2025-05-06,Nagpur,Juice,62
+2025-05-06,Pune,Juice,49
+2025-05-06,Chennai,Juice,47
+2025-05-06,Lucknow,Juice,44
+2025-05-07,Delhi,Milk,67
+2025-05-07,Nagpur,Milk,40
+2025-05-07,Pune,Milk,50
+2025-05-07,Chennai,Milk,50
+2025-05-07,Lucknow,Milk,42
+2025-05-07,Delhi,Chips,29
+2025-05-07,Nagpur,Chips,54
+2025-05-07,Pune,Chips,49
+2025-05-07,Chennai,Chips,57
+2025-05-07,Lucknow,Chips,41
+2025-05-07,Delhi,Soap,68
+2025-05-07,Nagpur,Soap,36
+2025-05-07,Pune,Soap,75
+2025-05-07,Chennai,Soap,23
+2025-05-07,Lucknow,Soap,56
+2025-05-07,Delhi,Water Bottle,57
+2025-05-07,Nagpur,Water Bottle,38
+2025-05-07,Pune,Water Bottle,56
+2025-05-07,Chennai,Water Bottle,69
+2025-05-07,Lucknow,Water Bottle,16
+2025-05-07,Delhi,Biscuits,57
+2025-05-07,Nagpur,Biscuits,12
+2025-05-07,Pune,Biscuits,35
+2025-05-07,Chennai,Biscuits,74
+2025-05-07,Lucknow,Biscuits,41
+2025-05-07,Delhi,Rice,32
+2025-05-07,Nagpur,Rice,47
+2025-05-07,Pune,Rice,81
+2025-05-07,Chennai,Rice,22
+2025-05-07,Lucknow,Rice,34
+2025-05-07,Delhi,Oil,72
+2025-05-07,Nagpur,Oil,77
+2025-05-07,Pune,Oil,48
+2025-05-07,Chennai,Oil,31
+2025-05-07,Lucknow,Oil,81
+2025-05-07,Delhi,Shampoo,73
+2025-05-07,Nagpur,Shampoo,60
+2025-05-07,Pune,Shampoo,37
+2025-05-07,Chennai,Shampoo,49
+2025-05-07,Lucknow,Shampoo,47
+2025-05-07,Delhi,Toothpaste,54
+2025-05-07,Nagpur,Toothpaste,71
+2025-05-07,Pune,Toothpaste,63
+2025-05-07,Chennai,Toothpaste,33
+2025-05-07,Lucknow,Toothpaste,70
+2025-05-07,Delhi,Juice,54
+2025-05-07,Nagpur,Juice,60
+2025-05-07,Pune,Juice,71
+2025-05-07,Chennai,Juice,33
+2025-05-07,Lucknow,Juice,49
+2025-05-08,Delhi,Milk,42
+2025-05-08,Nagpur,Milk,26
+2025-05-08,Pune,Milk,55
+2025-05-08,Chennai,Milk,87
+2025-05-08,Lucknow,Milk,22
+2025-05-08,Delhi,Chips,49
+2025-05-08,Nagpur,Chips,59
+2025-05-08,Pune,Chips,51
+2025-05-08,Chennai,Chips,48
+2025-05-08,Lucknow,Chips,30
+2025-05-08,Delhi,Soap,53
+2025-05-08,Nagpur,Soap,38
+2025-05-08,Pune,Soap,17
+2025-05-08,Chennai,Soap,67
+2025-05-08,Lucknow,Soap,64
+2025-05-08,Delhi,Water Bottle,50
+2025-05-08,Nagpur,Water Bottle,53
+2025-05-08,Pune,Water Bottle,66
+2025-05-08,Chennai,Water Bottle,53
+2025-05-08,Lucknow,Water Bottle,63
+2025-05-08,Delhi,Biscuits,45
+2025-05-08,Nagpur,Biscuits,69
+2025-05-08,Pune,Biscuits,54
+2025-05-08,Chennai,Biscuits,52
+2025-05-08,Lucknow,Biscuits,30
+2025-05-08,Delhi,Rice,54
+2025-05-08,Nagpur,Rice,37
+2025-05-08,Pune,Rice,40
+2025-05-08,Chennai,Rice,37
+2025-05-08,Lucknow,Rice,34
+2025-05-08,Delhi,Oil,81
+2025-05-08,Nagpur,Oil,69
+2025-05-08,Pune,Oil,78
+2025-05-08,Chennai,Oil,31
+2025-05-08,Lucknow,Oil,51
+2025-05-08,Delhi,Shampoo,30
+2025-05-08,Nagpur,Shampoo,39
+2025-05-08,Pune,Shampoo,36
+2025-05-08,Chennai,Shampoo,68
+2025-05-08,Lucknow,Shampoo,44
+2025-05-08,Delhi,Toothpaste,66
+2025-05-08,Nagpur,Toothpaste,59
+2025-05-08,Pune,Toothpaste,84
+2025-05-08,Chennai,Toothpaste,27
+2025-05-08,Lucknow,Toothpaste,68
+2025-05-08,Delhi,Juice,67
+2025-05-08,Nagpur,Juice,35
+2025-05-08,Pune,Juice,65
+2025-05-08,Chennai,Juice,55
+2025-05-08,Lucknow,Juice,46
+2025-05-09,Delhi,Milk,37
+2025-05-09,Nagpur,Milk,39
+2025-05-09,Pune,Milk,80
+2025-05-09,Chennai,Milk,50
+2025-05-09,Lucknow,Milk,61
+2025-05-09,Delhi,Chips,38
+2025-05-09,Nagpur,Chips,38
+2025-05-09,Pune,Chips,66
+2025-05-09,Chennai,Chips,29
+2025-05-09,Lucknow,Chips,43
+2025-05-09,Delhi,Soap,50
+2025-05-09,Nagpur,Soap,51
+2025-05-09,Pune,Soap,47
+2025-05-09,Chennai,Soap,55
+2025-05-09,Lucknow,Soap,60
+2025-05-09,Delhi,Water Bottle,61
+2025-05-09,Nagpur,Water Bottle,35
+2025-05-09,Pune,Water Bottle,45
+2025-05-09,Chennai,Water Bottle,67
+2025-05-09,Lucknow,Water Bottle,63
+2025-05-09,Delhi,Biscuits,29
+2025-05-09,Nagpur,Biscuits,55
+2025-05-09,Pune,Biscuits,20
+2025-05-09,Chennai,Biscuits,50
+2025-05-09,Lucknow,Biscuits,78
+2025-05-09,Delhi,Rice,35
+2025-05-09,Nagpur,Rice,37
+2025-05-09,Pune,Rice,61
+2025-05-09,Chennai,Rice,26
+2025-05-09,Lucknow,Rice,40
+2025-05-09,Delhi,Oil,58
+2025-05-09,Nagpur,Oil,40
+2025-05-09,Pune,Oil,46
+2025-05-09,Chennai,Oil,61
+2025-05-09,Lucknow,Oil,56
+2025-05-09,Delhi,Shampoo,54
+2025-05-09,Nagpur,Shampoo,44
+2025-05-09,Pune,Shampoo,55
+2025-05-09,Chennai,Shampoo,48
+2025-05-09,Lucknow,Shampoo,56
+2025-05-09,Delhi,Toothpaste,42
+2025-05-09,Nagpur,Toothpaste,47
+2025-05-09,Pune,Toothpaste,35
+2025-05-09,Chennai,Toothpaste,49
+2025-05-09,Lucknow,Toothpaste,37
+2025-05-09,Delhi,Juice,33
+2025-05-09,Nagpur,Juice,53
+2025-05-09,Pune,Juice,53
+2025-05-09,Chennai,Juice,61
+2025-05-09,Lucknow,Juice,43
+2025-05-10,Delhi,Milk,56
+2025-05-10,Nagpur,Milk,58
+2025-05-10,Pune,Milk,56
+2025-05-10,Chennai,Milk,37
+2025-05-10,Lucknow,Milk,52
+2025-05-10,Delhi,Chips,55
+2025-05-10,Nagpur,Chips,50
+2025-05-10,Pune,Chips,18
+2025-05-10,Chennai,Chips,52
+2025-05-10,Lucknow,Chips,83
+2025-05-10,Delhi,Soap,44
+2025-05-10,Nagpur,Soap,39
+2025-05-10,Pune,Soap,55
+2025-05-10,Chennai,Soap,54
+2025-05-10,Lucknow,Soap,67
+2025-05-10,Delhi,Water Bottle,31
+2025-05-10,Nagpur,Water Bottle,60
+2025-05-10,Pune,Water Bottle,58
+2025-05-10,Chennai,Water Bottle,47
+2025-05-10,Lucknow,Water Bottle,55
+2025-05-10,Delhi,Biscuits,65
+2025-05-10,Nagpur,Biscuits,63
+2025-05-10,Pune,Biscuits,32
+2025-05-10,Chennai,Biscuits,62
+2025-05-10,Lucknow,Biscuits,49
+2025-05-10,Delhi,Rice,51
+2025-05-10,Nagpur,Rice,51
+2025-05-10,Pune,Rice,47
+2025-05-10,Chennai,Rice,67
+2025-05-10,Lucknow,Rice,48
+2025-05-10,Delhi,Oil,33
+2025-05-10,Nagpur,Oil,44
+2025-05-10,Pune,Oil,52
+2025-05-10,Chennai,Oil,68
+2025-05-10,Lucknow,Oil,59
+2025-05-10,Delhi,Shampoo,37
+2025-05-10,Nagpur,Shampoo,87
+2025-05-10,Pune,Shampoo,53
+2025-05-10,Chennai,Shampoo,69
+2025-05-10,Lucknow,Shampoo,47
+2025-05-10,Delhi,Toothpaste,58
+2025-05-10,Nagpur,Toothpaste,62
+2025-05-10,Pune,Toothpaste,68
+2025-05-10,Chennai,Toothpaste,65
+2025-05-10,Lucknow,Toothpaste,63
+2025-05-10,Delhi,Juice,45
+2025-05-10,Nagpur,Juice,41
+2025-05-10,Pune,Juice,54
+2025-05-10,Chennai,Juice,63
+2025-05-10,Lucknow,Juice,46
+2025-05-11,Delhi,Milk,65
+2025-05-11,Nagpur,Milk,71
+2025-05-11,Pune,Milk,36
+2025-05-11,Chennai,Milk,37
+2025-05-11,Lucknow,Milk,47
+2025-05-11,Delhi,Chips,54
+2025-05-11,Nagpur,Chips,42
+2025-05-11,Pune,Chips,70
+2025-05-11,Chennai,Chips,56
+2025-05-11,Lucknow,Chips,50
+2025-05-11,Delhi,Soap,28
+2025-05-11,Nagpur,Soap,30
+2025-05-11,Pune,Soap,54
+2025-05-11,Chennai,Soap,18
+2025-05-11,Lucknow,Soap,65
+2025-05-11,Delhi,Water Bottle,47
+2025-05-11,Nagpur,Water Bottle,98
+2025-05-11,Pune,Water Bottle,84
+2025-05-11,Chennai,Water Bottle,47
+2025-05-11,Lucknow,Water Bottle,48
+2025-05-11,Delhi,Biscuits,64
+2025-05-11,Nagpur,Biscuits,75
+2025-05-11,Pune,Biscuits,25
+2025-05-11,Chennai,Biscuits,23
+2025-05-11,Lucknow,Biscuits,40
+2025-05-11,Delhi,Rice,58
+2025-05-11,Nagpur,Rice,57
+2025-05-11,Pune,Rice,66
+2025-05-11,Chennai,Rice,32
+2025-05-11,Lucknow,Rice,15
+2025-05-11,Delhi,Oil,62
+2025-05-11,Nagpur,Oil,37
+2025-05-11,Pune,Oil,19
+2025-05-11,Chennai,Oil,52
+2025-05-11,Lucknow,Oil,61
+2025-05-11,Delhi,Shampoo,48
+2025-05-11,Nagpur,Shampoo,43
+2025-05-11,Pune,Shampoo,47
+2025-05-11,Chennai,Shampoo,44
+2025-05-11,Lucknow,Shampoo,29
+2025-05-11,Delhi,Toothpaste,39
+2025-05-11,Nagpur,Toothpaste,57
+2025-05-11,Pune,Toothpaste,54
+2025-05-11,Chennai,Toothpaste,52
+2025-05-11,Lucknow,Toothpaste,35
+2025-05-11,Delhi,Juice,47
+2025-05-11,Nagpur,Juice,17
+2025-05-11,Pune,Juice,52
+2025-05-11,Chennai,Juice,71
+2025-05-11,Lucknow,Juice,27
+2025-05-12,Delhi,Milk,41
+2025-05-12,Nagpur,Milk,54
+2025-05-12,Pune,Milk,68
+2025-05-12,Chennai,Milk,43
+2025-05-12,Lucknow,Milk,39
+2025-05-12,Delhi,Chips,20
+2025-05-12,Nagpur,Chips,51
+2025-05-12,Pune,Chips,80
+2025-05-12,Chennai,Chips,54
+2025-05-12,Lucknow,Chips,49
+2025-05-12,Delhi,Soap,54
+2025-05-12,Nagpur,Soap,49
+2025-05-12,Pune,Soap,37
+2025-05-12,Chennai,Soap,62
+2025-05-12,Lucknow,Soap,53
+2025-05-12,Delhi,Water Bottle,50
+2025-05-12,Nagpur,Water Bottle,35
+2025-05-12,Pune,Water Bottle,69
+2025-05-12,Chennai,Water Bottle,59
+2025-05-12,Lucknow,Water Bottle,41
+2025-05-12,Delhi,Biscuits,65
+2025-05-12,Nagpur,Biscuits,42
+2025-05-12,Pune,Biscuits,38
+2025-05-12,Chennai,Biscuits,38
+2025-05-12,Lucknow,Biscuits,23
+2025-05-12,Delhi,Rice,57
+2025-05-12,Nagpur,Rice,22
+2025-05-12,Pune,Rice,31
+2025-05-12,Chennai,Rice,18
+2025-05-12,Lucknow,Rice,48
+2025-05-12,Delhi,Oil,47
+2025-05-12,Nagpur,Oil,45
+2025-05-12,Pune,Oil,34
+2025-05-12,Chennai,Oil,32
+2025-05-12,Lucknow,Oil,56
+2025-05-12,Delhi,Shampoo,41
+2025-05-12,Nagpur,Shampoo,54
+2025-05-12,Pune,Shampoo,36
+2025-05-12,Chennai,Shampoo,52
+2025-05-12,Lucknow,Shampoo,69
+2025-05-12,Delhi,Toothpaste,58
+2025-05-12,Nagpur,Toothpaste,43
+2025-05-12,Pune,Toothpaste,53
+2025-05-12,Chennai,Toothpaste,46
+2025-05-12,Lucknow,Toothpaste,50
+2025-05-12,Delhi,Juice,45
+2025-05-12,Nagpur,Juice,47
+2025-05-12,Pune,Juice,53
+2025-05-12,Chennai,Juice,35
+2025-05-12,Lucknow,Juice,34
+2025-05-13,Delhi,Milk,29
+2025-05-13,Nagpur,Milk,25
+2025-05-13,Pune,Milk,31
+2025-05-13,Chennai,Milk,52
+2025-05-13,Lucknow,Milk,36
+2025-05-13,Delhi,Chips,57
+2025-05-13,Nagpur,Chips,50
+2025-05-13,Pune,Chips,20
+2025-05-13,Chennai,Chips,59
+2025-05-13,Lucknow,Chips,62
+2025-05-13,Delhi,Soap,35
+2025-05-13,Nagpur,Soap,56
+2025-05-13,Pune,Soap,37
+2025-05-13,Chennai,Soap,51
+2025-05-13,Lucknow,Soap,31
+2025-05-13,Delhi,Water Bottle,23
+2025-05-13,Nagpur,Water Bottle,44
+2025-05-13,Pune,Water Bottle,48
+2025-05-13,Chennai,Water Bottle,44
+2025-05-13,Lucknow,Water Bottle,32
+2025-05-13,Delhi,Biscuits,44
+2025-05-13,Nagpur,Biscuits,54
+2025-05-13,Pune,Biscuits,49
+2025-05-13,Chennai,Biscuits,52
+2025-05-13,Lucknow,Biscuits,39
+2025-05-13,Delhi,Rice,67
+2025-05-13,Nagpur,Rice,32
+2025-05-13,Pune,Rice,57
+2025-05-13,Chennai,Rice,67
+2025-05-13,Lucknow,Rice,57
+2025-05-13,Delhi,Oil,46
+2025-05-13,Nagpur,Oil,42
+2025-05-13,Pune,Oil,65
+2025-05-13,Chennai,Oil,28
+2025-05-13,Lucknow,Oil,35
+2025-05-13,Delhi,Shampoo,44
+2025-05-13,Nagpur,Shampoo,68
+2025-05-13,Pune,Shampoo,55
+2025-05-13,Chennai,Shampoo,35
+2025-05-13,Lucknow,Shampoo,45
+2025-05-13,Delhi,Toothpaste,40
+2025-05-13,Nagpur,Toothpaste,39
+2025-05-13,Pune,Toothpaste,64
+2025-05-13,Chennai,Toothpaste,29
+2025-05-13,Lucknow,Toothpaste,74
+2025-05-13,Delhi,Juice,62
+2025-05-13,Nagpur,Juice,66
+2025-05-13,Pune,Juice,43
+2025-05-13,Chennai,Juice,47
+2025-05-13,Lucknow,Juice,28
+2025-05-14,Delhi,Milk,42
+2025-05-14,Nagpur,Milk,57
+2025-05-14,Pune,Milk,69
+2025-05-14,Chennai,Milk,33
+2025-05-14,Lucknow,Milk,44
+2025-05-14,Delhi,Chips,47
+2025-05-14,Nagpur,Chips,29
+2025-05-14,Pune,Chips,58
+2025-05-14,Chennai,Chips,39
+2025-05-14,Lucknow,Chips,47
+2025-05-14,Delhi,Soap,43
+2025-05-14,Nagpur,Soap,38
+2025-05-14,Pune,Soap,49
+2025-05-14,Chennai,Soap,46
+2025-05-14,Lucknow,Soap,44
+2025-05-14,Delhi,Water Bottle,39
+2025-05-14,Nagpur,Water Bottle,54
+2025-05-14,Pune,Water Bottle,74
+2025-05-14,Chennai,Water Bottle,52
+2025-05-14,Lucknow,Water Bottle,64
+2025-05-14,Delhi,Biscuits,29
+2025-05-14,Nagpur,Biscuits,52
+2025-05-14,Pune,Biscuits,33
+2025-05-14,Chennai,Biscuits,27
+2025-05-14,Lucknow,Biscuits,38
+2025-05-14,Delhi,Rice,67
+2025-05-14,Nagpur,Rice,64
+2025-05-14,Pune,Rice,53
+2025-05-14,Chennai,Rice,27
+2025-05-14,Lucknow,Rice,47
+2025-05-14,Delhi,Oil,54
+2025-05-14,Nagpur,Oil,52
+2025-05-14,Pune,Oil,22
+2025-05-14,Chennai,Oil,36
+2025-05-14,Lucknow,Oil,49
+2025-05-14,Delhi,Shampoo,58
+2025-05-14,Nagpur,Shampoo,17
+2025-05-14,Pune,Shampoo,47
+2025-05-14,Chennai,Shampoo,52
+2025-05-14,Lucknow,Shampoo,62
+2025-05-14,Delhi,Toothpaste,60
+2025-05-14,Nagpur,Toothpaste,58
+2025-05-14,Pune,Toothpaste,38
+2025-05-14,Chennai,Toothpaste,21
+2025-05-14,Lucknow,Toothpaste,44
+2025-05-14,Delhi,Juice,65
+2025-05-14,Nagpur,Juice,70
+2025-05-14,Pune,Juice,60
+2025-05-14,Chennai,Juice,56
+2025-05-14,Lucknow,Juice,55
+2025-05-15,Delhi,Milk,41
+2025-05-15,Nagpur,Milk,48
+2025-05-15,Pune,Milk,75
+2025-05-15,Chennai,Milk,35
+2025-05-15,Lucknow,Milk,74
+2025-05-15,Delhi,Chips,45
+2025-05-15,Nagpur,Chips,69
+2025-05-15,Pune,Chips,28
+2025-05-15,Chennai,Chips,58
+2025-05-15,Lucknow,Chips,38
+2025-05-15,Delhi,Soap,28
+2025-05-15,Nagpur,Soap,53
+2025-05-15,Pune,Soap,65
+2025-05-15,Chennai,Soap,37
+2025-05-15,Lucknow,Soap,27
+2025-05-15,Delhi,Water Bottle,48
+2025-05-15,Nagpur,Water Bottle,48
+2025-05-15,Pune,Water Bottle,58
+2025-05-15,Chennai,Water Bottle,64
+2025-05-15,Lucknow,Water Bottle,49
+2025-05-15,Delhi,Biscuits,77
+2025-05-15,Nagpur,Biscuits,53
+2025-05-15,Pune,Biscuits,44
+2025-05-15,Chennai,Biscuits,25
+2025-05-15,Lucknow,Biscuits,46
+2025-05-15,Delhi,Rice,44
+2025-05-15,Nagpur,Rice,64
+2025-05-15,Pune,Rice,56
+2025-05-15,Chennai,Rice,32
+2025-05-15,Lucknow,Rice,52
+2025-05-15,Delhi,Oil,60
+2025-05-15,Nagpur,Oil,72
+2025-05-15,Pune,Oil,63
+2025-05-15,Chennai,Oil,61
+2025-05-15,Lucknow,Oil,50
+2025-05-15,Delhi,Shampoo,55
+2025-05-15,Nagpur,Shampoo,68
+2025-05-15,Pune,Shampoo,30
+2025-05-15,Chennai,Shampoo,44
+2025-05-15,Lucknow,Shampoo,38
+2025-05-15,Delhi,Toothpaste,55
+2025-05-15,Nagpur,Toothpaste,68
+2025-05-15,Pune,Toothpaste,41
+2025-05-15,Chennai,Toothpaste,14
+2025-05-15,Lucknow,Toothpaste,43
+2025-05-15,Delhi,Juice,63
+2025-05-15,Nagpur,Juice,58
+2025-05-15,Pune,Juice,56
+2025-05-15,Chennai,Juice,45
+2025-05-15,Lucknow,Juice,30
+2025-05-16,Delhi,Milk,57
+2025-05-16,Nagpur,Milk,37
+2025-05-16,Pune,Milk,82
+2025-05-16,Chennai,Milk,58
+2025-05-16,Lucknow,Milk,41
+2025-05-16,Delhi,Chips,40
+2025-05-16,Nagpur,Chips,48
+2025-05-16,Pune,Chips,46
+2025-05-16,Chennai,Chips,66
+2025-05-16,Lucknow,Chips,52
+2025-05-16,Delhi,Soap,39
+2025-05-16,Nagpur,Soap,78
+2025-05-16,Pune,Soap,50
+2025-05-16,Chennai,Soap,61
+2025-05-16,Lucknow,Soap,40
+2025-05-16,Delhi,Water Bottle,55
+2025-05-16,Nagpur,Water Bottle,54
+2025-05-16,Pune,Water Bottle,21
+2025-05-16,Chennai,Water Bottle,80
+2025-05-16,Lucknow,Water Bottle,69
+2025-05-16,Delhi,Biscuits,44
+2025-05-16,Nagpur,Biscuits,33
+2025-05-16,Pune,Biscuits,55
+2025-05-16,Chennai,Biscuits,51
+2025-05-16,Lucknow,Biscuits,55
+2025-05-16,Delhi,Rice,52
+2025-05-16,Nagpur,Rice,57
+2025-05-16,Pune,Rice,71
+2025-05-16,Chennai,Rice,58
+2025-05-16,Lucknow,Rice,34
+2025-05-16,Delhi,Oil,70
+2025-05-16,Nagpur,Oil,74
+2025-05-16,Pune,Oil,97
+2025-05-16,Chennai,Oil,33
+2025-05-16,Lucknow,Oil,53
+2025-05-16,Delhi,Shampoo,18
+2025-05-16,Nagpur,Shampoo,58
+2025-05-16,Pune,Shampoo,41
+2025-05-16,Chennai,Shampoo,78
+2025-05-16,Lucknow,Shampoo,38
+2025-05-16,Delhi,Toothpaste,24
+2025-05-16,Nagpur,Toothpaste,42
+2025-05-16,Pune,Toothpaste,20
+2025-05-16,Chennai,Toothpaste,61
+2025-05-16,Lucknow,Toothpaste,19
+2025-05-16,Delhi,Juice,50
+2025-05-16,Nagpur,Juice,18
+2025-05-16,Pune,Juice,45
+2025-05-16,Chennai,Juice,74
+2025-05-16,Lucknow,Juice,55
+2025-05-17,Delhi,Milk,37
+2025-05-17,Nagpur,Milk,49
+2025-05-17,Pune,Milk,50
+2025-05-17,Chennai,Milk,57
+2025-05-17,Lucknow,Milk,29
+2025-05-17,Delhi,Chips,58
+2025-05-17,Nagpur,Chips,9
+2025-05-17,Pune,Chips,40
+2025-05-17,Chennai,Chips,42
+2025-05-17,Lucknow,Chips,59
+2025-05-17,Delhi,Soap,50
+2025-05-17,Nagpur,Soap,28
+2025-05-17,Pune,Soap,35
+2025-05-17,Chennai,Soap,52
+2025-05-17,Lucknow,Soap,48
+2025-05-17,Delhi,Water Bottle,41
+2025-05-17,Nagpur,Water Bottle,42
+2025-05-17,Pune,Water Bottle,60
+2025-05-17,Chennai,Water Bottle,42
+2025-05-17,Lucknow,Water Bottle,48
+2025-05-17,Delhi,Biscuits,82
+2025-05-17,Nagpur,Biscuits,28
+2025-05-17,Pune,Biscuits,22
+2025-05-17,Chennai,Biscuits,61
+2025-05-17,Lucknow,Biscuits,39
+2025-05-17,Delhi,Rice,45
+2025-05-17,Nagpur,Rice,38
+2025-05-17,Pune,Rice,46
+2025-05-17,Chennai,Rice,73
+2025-05-17,Lucknow,Rice,62
+2025-05-17,Delhi,Oil,62
+2025-05-17,Nagpur,Oil,28
+2025-05-17,Pune,Oil,32
+2025-05-17,Chennai,Oil,7
+2025-05-17,Lucknow,Oil,37
+2025-05-17,Delhi,Shampoo,64
+2025-05-17,Nagpur,Shampoo,57
+2025-05-17,Pune,Shampoo,46
+2025-05-17,Chennai,Shampoo,49
+2025-05-17,Lucknow,Shampoo,39
+2025-05-17,Delhi,Toothpaste,53
+2025-05-17,Nagpur,Toothpaste,61
+2025-05-17,Pune,Toothpaste,25
+2025-05-17,Chennai,Toothpaste,54
+2025-05-17,Lucknow,Toothpaste,63
+2025-05-17,Delhi,Juice,43
+2025-05-17,Nagpur,Juice,60
+2025-05-17,Pune,Juice,92
+2025-05-17,Chennai,Juice,48
+2025-05-17,Lucknow,Juice,55
+2025-05-18,Delhi,Milk,38
+2025-05-18,Nagpur,Milk,52
+2025-05-18,Pune,Milk,56
+2025-05-18,Chennai,Milk,52
+2025-05-18,Lucknow,Milk,34
+2025-05-18,Delhi,Chips,53
+2025-05-18,Nagpur,Chips,71
+2025-05-18,Pune,Chips,56
+2025-05-18,Chennai,Chips,64
+2025-05-18,Lucknow,Chips,46
+2025-05-18,Delhi,Soap,61
+2025-05-18,Nagpur,Soap,54
+2025-05-18,Pune,Soap,35
+2025-05-18,Chennai,Soap,54
+2025-05-18,Lucknow,Soap,35
+2025-05-18,Delhi,Water Bottle,40
+2025-05-18,Nagpur,Water Bottle,52
+2025-05-18,Pune,Water Bottle,54
+2025-05-18,Chennai,Water Bottle,32
+2025-05-18,Lucknow,Water Bottle,65
+2025-05-18,Delhi,Biscuits,58
+2025-05-18,Nagpur,Biscuits,39
+2025-05-18,Pune,Biscuits,26
+2025-05-18,Chennai,Biscuits,47
+2025-05-18,Lucknow,Biscuits,43
+2025-05-18,Delhi,Rice,51
+2025-05-18,Nagpur,Rice,44
+2025-05-18,Pune,Rice,19
+2025-05-18,Chennai,Rice,44
+2025-05-18,Lucknow,Rice,45
+2025-05-18,Delhi,Oil,59
+2025-05-18,Nagpur,Oil,39
+2025-05-18,Pune,Oil,75
+2025-05-18,Chennai,Oil,21
+2025-05-18,Lucknow,Oil,69
+2025-05-18,Delhi,Shampoo,46
+2025-05-18,Nagpur,Shampoo,62
+2025-05-18,Pune,Shampoo,51
+2025-05-18,Chennai,Shampoo,67
+2025-05-18,Lucknow,Shampoo,44
+2025-05-18,Delhi,Toothpaste,33
+2025-05-18,Nagpur,Toothpaste,71
+2025-05-18,Pune,Toothpaste,48
+2025-05-18,Chennai,Toothpaste,53
+2025-05-18,Lucknow,Toothpaste,68
+2025-05-18,Delhi,Juice,34
+2025-05-18,Nagpur,Juice,58
+2025-05-18,Pune,Juice,41
+2025-05-18,Chennai,Juice,48
+2025-05-18,Lucknow,Juice,51
+2025-05-19,Delhi,Milk,27
+2025-05-19,Nagpur,Milk,38
+2025-05-19,Pune,Milk,70
+2025-05-19,Chennai,Milk,63
+2025-05-19,Lucknow,Milk,49
+2025-05-19,Delhi,Chips,53
+2025-05-19,Nagpur,Chips,45
+2025-05-19,Pune,Chips,70
+2025-05-19,Chennai,Chips,46
+2025-05-19,Lucknow,Chips,53
+2025-05-19,Delhi,Soap,67
+2025-05-19,Nagpur,Soap,38
+2025-05-19,Pune,Soap,73
+2025-05-19,Chennai,Soap,27
+2025-05-19,Lucknow,Soap,74
+2025-05-19,Delhi,Water Bottle,44
+2025-05-19,Nagpur,Water Bottle,46
+2025-05-19,Pune,Water Bottle,21
+2025-05-19,Chennai,Water Bottle,43
+2025-05-19,Lucknow,Water Bottle,34
+2025-05-19,Delhi,Biscuits,40
+2025-05-19,Nagpur,Biscuits,47
+2025-05-19,Pune,Biscuits,64
+2025-05-19,Chennai,Biscuits,53
+2025-05-19,Lucknow,Biscuits,54
+2025-05-19,Delhi,Rice,33
+2025-05-19,Nagpur,Rice,36
+2025-05-19,Pune,Rice,76
+2025-05-19,Chennai,Rice,38
+2025-05-19,Lucknow,Rice,74
+2025-05-19,Delhi,Oil,46
+2025-05-19,Nagpur,Oil,50
+2025-05-19,Pune,Oil,66
+2025-05-19,Chennai,Oil,69
+2025-05-19,Lucknow,Oil,48
+2025-05-19,Delhi,Shampoo,44
+2025-05-19,Nagpur,Shampoo,49
+2025-05-19,Pune,Shampoo,55
+2025-05-19,Chennai,Shampoo,63
+2025-05-19,Lucknow,Shampoo,50
+2025-05-19,Delhi,Toothpaste,59
+2025-05-19,Nagpur,Toothpaste,74
+2025-05-19,Pune,Toothpaste,55
+2025-05-19,Chennai,Toothpaste,54
+2025-05-19,Lucknow,Toothpaste,27
+2025-05-19,Delhi,Juice,10
+2025-05-19,Nagpur,Juice,55
+2025-05-19,Pune,Juice,48
+2025-05-19,Chennai,Juice,42
+2025-05-19,Lucknow,Juice,53
+2025-05-20,Delhi,Milk,49
+2025-05-20,Nagpur,Milk,66
+2025-05-20,Pune,Milk,51
+2025-05-20,Chennai,Milk,38
+2025-05-20,Lucknow,Milk,64
+2025-05-20,Delhi,Chips,46
+2025-05-20,Nagpur,Chips,57
+2025-05-20,Pune,Chips,42
+2025-05-20,Chennai,Chips,40
+2025-05-20,Lucknow,Chips,51
+2025-05-20,Delhi,Soap,50
+2025-05-20,Nagpur,Soap,57
+2025-05-20,Pune,Soap,45
+2025-05-20,Chennai,Soap,22
+2025-05-20,Lucknow,Soap,43
+2025-05-20,Delhi,Water Bottle,61
+2025-05-20,Nagpur,Water Bottle,45
+2025-05-20,Pune,Water Bottle,46
+2025-05-20,Chennai,Water Bottle,64
+2025-05-20,Lucknow,Water Bottle,39
+2025-05-20,Delhi,Biscuits,26
+2025-05-20,Nagpur,Biscuits,47
+2025-05-20,Pune,Biscuits,42
+2025-05-20,Chennai,Biscuits,35
+2025-05-20,Lucknow,Biscuits,47
+2025-05-20,Delhi,Rice,57
+2025-05-20,Nagpur,Rice,49
+2025-05-20,Pune,Rice,54
+2025-05-20,Chennai,Rice,77
+2025-05-20,Lucknow,Rice,44
+2025-05-20,Delhi,Oil,54
+2025-05-20,Nagpur,Oil,42
+2025-05-20,Pune,Oil,37
+2025-05-20,Chennai,Oil,41
+2025-05-20,Lucknow,Oil,42
+2025-05-20,Delhi,Shampoo,55
+2025-05-20,Nagpur,Shampoo,85
+2025-05-20,Pune,Shampoo,39
+2025-05-20,Chennai,Shampoo,43
+2025-05-20,Lucknow,Shampoo,49
+2025-05-20,Delhi,Toothpaste,55
+2025-05-20,Nagpur,Toothpaste,53
+2025-05-20,Pune,Toothpaste,69
+2025-05-20,Chennai,Toothpaste,13
+2025-05-20,Lucknow,Toothpaste,14
+2025-05-20,Delhi,Juice,42
+2025-05-20,Nagpur,Juice,66
+2025-05-20,Pune,Juice,26
+2025-05-20,Chennai,Juice,4
+2025-05-20,Lucknow,Juice,58
+2025-05-21,Delhi,Milk,53
+2025-05-21,Nagpur,Milk,33
+2025-05-21,Pune,Milk,35
+2025-05-21,Chennai,Milk,35
+2025-05-21,Lucknow,Milk,51
+2025-05-21,Delhi,Chips,40
+2025-05-21,Nagpur,Chips,57
+2025-05-21,Pune,Chips,7
+2025-05-21,Chennai,Chips,37
+2025-05-21,Lucknow,Chips,33
+2025-05-21,Delhi,Soap,46
+2025-05-21,Nagpur,Soap,41
+2025-05-21,Pune,Soap,61
+2025-05-21,Chennai,Soap,22
+2025-05-21,Lucknow,Soap,50
+2025-05-21,Delhi,Water Bottle,58
+2025-05-21,Nagpur,Water Bottle,77
+2025-05-21,Pune,Water Bottle,42
+2025-05-21,Chennai,Water Bottle,54
+2025-05-21,Lucknow,Water Bottle,22
+2025-05-21,Delhi,Biscuits,14
+2025-05-21,Nagpur,Biscuits,62
+2025-05-21,Pune,Biscuits,49
+2025-05-21,Chennai,Biscuits,67
+2025-05-21,Lucknow,Biscuits,29
+2025-05-21,Delhi,Rice,57
+2025-05-21,Nagpur,Rice,78
+2025-05-21,Pune,Rice,56
+2025-05-21,Chennai,Rice,54
+2025-05-21,Lucknow,Rice,50
+2025-05-21,Delhi,Oil,26
+2025-05-21,Nagpur,Oil,70
+2025-05-21,Pune,Oil,40
+2025-05-21,Chennai,Oil,57
+2025-05-21,Lucknow,Oil,26
+2025-05-21,Delhi,Shampoo,32
+2025-05-21,Nagpur,Shampoo,71
+2025-05-21,Pune,Shampoo,44
+2025-05-21,Chennai,Shampoo,71
+2025-05-21,Lucknow,Shampoo,48
+2025-05-21,Delhi,Toothpaste,22
+2025-05-21,Nagpur,Toothpaste,63
+2025-05-21,Pune,Toothpaste,41
+2025-05-21,Chennai,Toothpaste,60
+2025-05-21,Lucknow,Toothpaste,50
+2025-05-21,Delhi,Juice,26
+2025-05-21,Nagpur,Juice,52
+2025-05-21,Pune,Juice,82
+2025-05-21,Chennai,Juice,57
+2025-05-21,Lucknow,Juice,49
+2025-05-22,Delhi,Milk,66
+2025-05-22,Nagpur,Milk,53
+2025-05-22,Pune,Milk,53
+2025-05-22,Chennai,Milk,33
+2025-05-22,Lucknow,Milk,53
+2025-05-22,Delhi,Chips,65
+2025-05-22,Nagpur,Chips,37
+2025-05-22,Pune,Chips,71
+2025-05-22,Chennai,Chips,48
+2025-05-22,Lucknow,Chips,36
+2025-05-22,Delhi,Soap,64
+2025-05-22,Nagpur,Soap,45
+2025-05-22,Pune,Soap,61
+2025-05-22,Chennai,Soap,45
+2025-05-22,Lucknow,Soap,49
+2025-05-22,Delhi,Water Bottle,57
+2025-05-22,Nagpur,Water Bottle,54
+2025-05-22,Pune,Water Bottle,20
+2025-05-22,Chennai,Water Bottle,33
+2025-05-22,Lucknow,Water Bottle,63
+2025-05-22,Delhi,Biscuits,48
+2025-05-22,Nagpur,Biscuits,42
+2025-05-22,Pune,Biscuits,29
+2025-05-22,Chennai,Biscuits,33
+2025-05-22,Lucknow,Biscuits,19
+2025-05-22,Delhi,Rice,48
+2025-05-22,Nagpur,Rice,41
+2025-05-22,Pune,Rice,35
+2025-05-22,Chennai,Rice,48
+2025-05-22,Lucknow,Rice,55
+2025-05-22,Delhi,Oil,81
+2025-05-22,Nagpur,Oil,27
+2025-05-22,Pune,Oil,67
+2025-05-22,Chennai,Oil,64
+2025-05-22,Lucknow,Oil,38
+2025-05-22,Delhi,Shampoo,53
+2025-05-22,Nagpur,Shampoo,43
+2025-05-22,Pune,Shampoo,52
+2025-05-22,Chennai,Shampoo,72
+2025-05-22,Lucknow,Shampoo,59
+2025-05-22,Delhi,Toothpaste,57
+2025-05-22,Nagpur,Toothpaste,43
+2025-05-22,Pune,Toothpaste,27
+2025-05-22,Chennai,Toothpaste,46
+2025-05-22,Lucknow,Toothpaste,68
+2025-05-22,Delhi,Juice,27
+2025-05-22,Nagpur,Juice,34
+2025-05-22,Pune,Juice,51
+2025-05-22,Chennai,Juice,35
+2025-05-22,Lucknow,Juice,38
+2025-05-23,Delhi,Milk,43
+2025-05-23,Nagpur,Milk,29
+2025-05-23,Pune,Milk,35
+2025-05-23,Chennai,Milk,60
+2025-05-23,Lucknow,Milk,30
+2025-05-23,Delhi,Chips,26
+2025-05-23,Nagpur,Chips,40
+2025-05-23,Pune,Chips,60
+2025-05-23,Chennai,Chips,47
+2025-05-23,Lucknow,Chips,43
+2025-05-23,Delhi,Soap,50
+2025-05-23,Nagpur,Soap,23
+2025-05-23,Pune,Soap,57
+2025-05-23,Chennai,Soap,55
+2025-05-23,Lucknow,Soap,43
+2025-05-23,Delhi,Water Bottle,65
+2025-05-23,Nagpur,Water Bottle,33
+2025-05-23,Pune,Water Bottle,66
+2025-05-23,Chennai,Water Bottle,52
+2025-05-23,Lucknow,Water Bottle,44
+2025-05-23,Delhi,Biscuits,49
+2025-05-23,Nagpur,Biscuits,48
+2025-05-23,Pune,Biscuits,68
+2025-05-23,Chennai,Biscuits,33
+2025-05-23,Lucknow,Biscuits,38
+2025-05-23,Delhi,Rice,65
+2025-05-23,Nagpur,Rice,41
+2025-05-23,Pune,Rice,63
+2025-05-23,Chennai,Rice,75
+2025-05-23,Lucknow,Rice,43
+2025-05-23,Delhi,Oil,60
+2025-05-23,Nagpur,Oil,32
+2025-05-23,Pune,Oil,61
+2025-05-23,Chennai,Oil,52
+2025-05-23,Lucknow,Oil,57
+2025-05-23,Delhi,Shampoo,40
+2025-05-23,Nagpur,Shampoo,25
+2025-05-23,Pune,Shampoo,57
+2025-05-23,Chennai,Shampoo,19
+2025-05-23,Lucknow,Shampoo,45
+2025-05-23,Delhi,Toothpaste,64
+2025-05-23,Nagpur,Toothpaste,52
+2025-05-23,Pune,Toothpaste,79
+2025-05-23,Chennai,Toothpaste,65
+2025-05-23,Lucknow,Toothpaste,40
+2025-05-23,Delhi,Juice,50
+2025-05-23,Nagpur,Juice,49
+2025-05-23,Pune,Juice,26
+2025-05-23,Chennai,Juice,35
+2025-05-23,Lucknow,Juice,41
+2025-05-24,Delhi,Milk,19
+2025-05-24,Nagpur,Milk,50
+2025-05-24,Pune,Milk,46
+2025-05-24,Chennai,Milk,24
+2025-05-24,Lucknow,Milk,56
+2025-05-24,Delhi,Chips,60
+2025-05-24,Nagpur,Chips,53
+2025-05-24,Pune,Chips,45
+2025-05-24,Chennai,Chips,58
+2025-05-24,Lucknow,Chips,60
+2025-05-24,Delhi,Soap,54
+2025-05-24,Nagpur,Soap,37
+2025-05-24,Pune,Soap,54
+2025-05-24,Chennai,Soap,67
+2025-05-24,Lucknow,Soap,41
+2025-05-24,Delhi,Water Bottle,81
+2025-05-24,Nagpur,Water Bottle,42
+2025-05-24,Pune,Water Bottle,50
+2025-05-24,Chennai,Water Bottle,39
+2025-05-24,Lucknow,Water Bottle,53
+2025-05-24,Delhi,Biscuits,23
+2025-05-24,Nagpur,Biscuits,41
+2025-05-24,Pune,Biscuits,33
+2025-05-24,Chennai,Biscuits,52
+2025-05-24,Lucknow,Biscuits,64
+2025-05-24,Delhi,Rice,59
+2025-05-24,Nagpur,Rice,14
+2025-05-24,Pune,Rice,80
+2025-05-24,Chennai,Rice,54
+2025-05-24,Lucknow,Rice,38
+2025-05-24,Delhi,Oil,52
+2025-05-24,Nagpur,Oil,52
+2025-05-24,Pune,Oil,39
+2025-05-24,Chennai,Oil,52
+2025-05-24,Lucknow,Oil,40
+2025-05-24,Delhi,Shampoo,43
+2025-05-24,Nagpur,Shampoo,39
+2025-05-24,Pune,Shampoo,28
+2025-05-24,Chennai,Shampoo,52
+2025-05-24,Lucknow,Shampoo,58
+2025-05-24,Delhi,Toothpaste,57
+2025-05-24,Nagpur,Toothpaste,62
+2025-05-24,Pune,Toothpaste,54
+2025-05-24,Chennai,Toothpaste,42
+2025-05-24,Lucknow,Toothpaste,62
+2025-05-24,Delhi,Juice,29
+2025-05-24,Nagpur,Juice,36
+2025-05-24,Pune,Juice,35
+2025-05-24,Chennai,Juice,66
+2025-05-24,Lucknow,Juice,64
+2025-05-25,Delhi,Milk,57
+2025-05-25,Nagpur,Milk,66
+2025-05-25,Pune,Milk,36
+2025-05-25,Chennai,Milk,55
+2025-05-25,Lucknow,Milk,48
+2025-05-25,Delhi,Chips,62
+2025-05-25,Nagpur,Chips,48
+2025-05-25,Pune,Chips,44
+2025-05-25,Chennai,Chips,58
+2025-05-25,Lucknow,Chips,63
+2025-05-25,Delhi,Soap,39
+2025-05-25,Nagpur,Soap,49
+2025-05-25,Pune,Soap,34
+2025-05-25,Chennai,Soap,12
+2025-05-25,Lucknow,Soap,53
+2025-05-25,Delhi,Water Bottle,59
+2025-05-25,Nagpur,Water Bottle,53
+2025-05-25,Pune,Water Bottle,20
+2025-05-25,Chennai,Water Bottle,44
+2025-05-25,Lucknow,Water Bottle,16
+2025-05-25,Delhi,Biscuits,70
+2025-05-25,Nagpur,Biscuits,33
+2025-05-25,Pune,Biscuits,68
+2025-05-25,Chennai,Biscuits,64
+2025-05-25,Lucknow,Biscuits,36
+2025-05-25,Delhi,Rice,33
+2025-05-25,Nagpur,Rice,55
+2025-05-25,Pune,Rice,37
+2025-05-25,Chennai,Rice,51
+2025-05-25,Lucknow,Rice,42
+2025-05-25,Delhi,Oil,23
+2025-05-25,Nagpur,Oil,16
+2025-05-25,Pune,Oil,53
+2025-05-25,Chennai,Oil,41
+2025-05-25,Lucknow,Oil,41
+2025-05-25,Delhi,Shampoo,60
+2025-05-25,Nagpur,Shampoo,67
+2025-05-25,Pune,Shampoo,45
+2025-05-25,Chennai,Shampoo,44
+2025-05-25,Lucknow,Shampoo,57
+2025-05-25,Delhi,Toothpaste,29
+2025-05-25,Nagpur,Toothpaste,53
+2025-05-25,Pune,Toothpaste,58
+2025-05-25,Chennai,Toothpaste,60
+2025-05-25,Lucknow,Toothpaste,20
+2025-05-25,Delhi,Juice,38
+2025-05-25,Nagpur,Juice,36
+2025-05-25,Pune,Juice,51
+2025-05-25,Chennai,Juice,57
+2025-05-25,Lucknow,Juice,72
+2025-05-26,Delhi,Milk,42
+2025-05-26,Nagpur,Milk,42
+2025-05-26,Pune,Milk,67
+2025-05-26,Chennai,Milk,54
+2025-05-26,Lucknow,Milk,69
+2025-05-26,Delhi,Chips,54
+2025-05-26,Nagpur,Chips,32
+2025-05-26,Pune,Chips,30
+2025-05-26,Chennai,Chips,26
+2025-05-26,Lucknow,Chips,59
+2025-05-26,Delhi,Soap,67
+2025-05-26,Nagpur,Soap,77
+2025-05-26,Pune,Soap,62
+2025-05-26,Chennai,Soap,67
+2025-05-26,Lucknow,Soap,41
+2025-05-26,Delhi,Water Bottle,32
+2025-05-26,Nagpur,Water Bottle,62
+2025-05-26,Pune,Water Bottle,56
+2025-05-26,Chennai,Water Bottle,51
+2025-05-26,Lucknow,Water Bottle,55
+2025-05-26,Delhi,Biscuits,54
+2025-05-26,Nagpur,Biscuits,69
+2025-05-26,Pune,Biscuits,69
+2025-05-26,Chennai,Biscuits,58
+2025-05-26,Lucknow,Biscuits,62
+2025-05-26,Delhi,Rice,57
+2025-05-26,Nagpur,Rice,43
+2025-05-26,Pune,Rice,61
+2025-05-26,Chennai,Rice,29
+2025-05-26,Lucknow,Rice,65
+2025-05-26,Delhi,Oil,32
+2025-05-26,Nagpur,Oil,54
+2025-05-26,Pune,Oil,37
+2025-05-26,Chennai,Oil,58
+2025-05-26,Lucknow,Oil,49
+2025-05-26,Delhi,Shampoo,26
+2025-05-26,Nagpur,Shampoo,56
+2025-05-26,Pune,Shampoo,41
+2025-05-26,Chennai,Shampoo,63
+2025-05-26,Lucknow,Shampoo,50
+2025-05-26,Delhi,Toothpaste,55
+2025-05-26,Nagpur,Toothpaste,35
+2025-05-26,Pune,Toothpaste,41
+2025-05-26,Chennai,Toothpaste,43
+2025-05-26,Lucknow,Toothpaste,62
+2025-05-26,Delhi,Juice,75
+2025-05-26,Nagpur,Juice,37
+2025-05-26,Pune,Juice,66
+2025-05-26,Chennai,Juice,17
+2025-05-26,Lucknow,Juice,32
+2025-05-27,Delhi,Milk,35
+2025-05-27,Nagpur,Milk,29
+2025-05-27,Pune,Milk,26
+2025-05-27,Chennai,Milk,56
+2025-05-27,Lucknow,Milk,46
+2025-05-27,Delhi,Chips,55
+2025-05-27,Nagpur,Chips,60
+2025-05-27,Pune,Chips,53
+2025-05-27,Chennai,Chips,59
+2025-05-27,Lucknow,Chips,48
+2025-05-27,Delhi,Soap,32
+2025-05-27,Nagpur,Soap,65
+2025-05-27,Pune,Soap,41
+2025-05-27,Chennai,Soap,35
+2025-05-27,Lucknow,Soap,47
+2025-05-27,Delhi,Water Bottle,36
+2025-05-27,Nagpur,Water Bottle,43
+2025-05-27,Pune,Water Bottle,55
+2025-05-27,Chennai,Water Bottle,55
+2025-05-27,Lucknow,Water Bottle,36
+2025-05-27,Delhi,Biscuits,42
+2025-05-27,Nagpur,Biscuits,66
+2025-05-27,Pune,Biscuits,57
+2025-05-27,Chennai,Biscuits,81
+2025-05-27,Lucknow,Biscuits,67
+2025-05-27,Delhi,Rice,67
+2025-05-27,Nagpur,Rice,29
+2025-05-27,Pune,Rice,61
+2025-05-27,Chennai,Rice,49
+2025-05-27,Lucknow,Rice,41
+2025-05-27,Delhi,Oil,52
+2025-05-27,Nagpur,Oil,64
+2025-05-27,Pune,Oil,57
+2025-05-27,Chennai,Oil,36
+2025-05-27,Lucknow,Oil,61
+2025-05-27,Delhi,Shampoo,40
+2025-05-27,Nagpur,Shampoo,53
+2025-05-27,Pune,Shampoo,45
+2025-05-27,Chennai,Shampoo,46
+2025-05-27,Lucknow,Shampoo,61
+2025-05-27,Delhi,Toothpaste,34
+2025-05-27,Nagpur,Toothpaste,79
+2025-05-27,Pune,Toothpaste,22
+2025-05-27,Chennai,Toothpaste,41
+2025-05-27,Lucknow,Toothpaste,55
+2025-05-27,Delhi,Juice,58
+2025-05-27,Nagpur,Juice,48
+2025-05-27,Pune,Juice,49
+2025-05-27,Chennai,Juice,56
+2025-05-27,Lucknow,Juice,46
+2025-05-28,Delhi,Milk,70
+2025-05-28,Nagpur,Milk,62
+2025-05-28,Pune,Milk,63
+2025-05-28,Chennai,Milk,35
+2025-05-28,Lucknow,Milk,48
+2025-05-28,Delhi,Chips,45
+2025-05-28,Nagpur,Chips,34
+2025-05-28,Pune,Chips,55
+2025-05-28,Chennai,Chips,41
+2025-05-28,Lucknow,Chips,59
+2025-05-28,Delhi,Soap,33
+2025-05-28,Nagpur,Soap,75
+2025-05-28,Pune,Soap,36
+2025-05-28,Chennai,Soap,53
+2025-05-28,Lucknow,Soap,61
+2025-05-28,Delhi,Water Bottle,41
+2025-05-28,Nagpur,Water Bottle,62
+2025-05-28,Pune,Water Bottle,31
+2025-05-28,Chennai,Water Bottle,71
+2025-05-28,Lucknow,Water Bottle,50
+2025-05-28,Delhi,Biscuits,41
+2025-05-28,Nagpur,Biscuits,45
+2025-05-28,Pune,Biscuits,62
+2025-05-28,Chennai,Biscuits,41
+2025-05-28,Lucknow,Biscuits,38
+2025-05-28,Delhi,Rice,46
+2025-05-28,Nagpur,Rice,32
+2025-05-28,Pune,Rice,77
+2025-05-28,Chennai,Rice,41
+2025-05-28,Lucknow,Rice,62
+2025-05-28,Delhi,Oil,53
+2025-05-28,Nagpur,Oil,35
+2025-05-28,Pune,Oil,49
+2025-05-28,Chennai,Oil,61
+2025-05-28,Lucknow,Oil,47
+2025-05-28,Delhi,Shampoo,67
+2025-05-28,Nagpur,Shampoo,65
+2025-05-28,Pune,Shampoo,63
+2025-05-28,Chennai,Shampoo,43
+2025-05-28,Lucknow,Shampoo,33
+2025-05-28,Delhi,Toothpaste,40
+2025-05-28,Nagpur,Toothpaste,52
+2025-05-28,Pune,Toothpaste,58
+2025-05-28,Chennai,Toothpaste,17
+2025-05-28,Lucknow,Toothpaste,49
+2025-05-28,Delhi,Juice,52
+2025-05-28,Nagpur,Juice,45
+2025-05-28,Pune,Juice,69
+2025-05-28,Chennai,Juice,56
+2025-05-28,Lucknow,Juice,69
+2025-05-29,Delhi,Milk,46
+2025-05-29,Nagpur,Milk,64
+2025-05-29,Pune,Milk,74
+2025-05-29,Chennai,Milk,69
+2025-05-29,Lucknow,Milk,33
+2025-05-29,Delhi,Chips,46
+2025-05-29,Nagpur,Chips,44
+2025-05-29,Pune,Chips,57
+2025-05-29,Chennai,Chips,60
+2025-05-29,Lucknow,Chips,37
+2025-05-29,Delhi,Soap,51
+2025-05-29,Nagpur,Soap,19
+2025-05-29,Pune,Soap,71
+2025-05-29,Chennai,Soap,42
+2025-05-29,Lucknow,Soap,50
+2025-05-29,Delhi,Water Bottle,45
+2025-05-29,Nagpur,Water Bottle,67
+2025-05-29,Pune,Water Bottle,7
+2025-05-29,Chennai,Water Bottle,49
+2025-05-29,Lucknow,Water Bottle,48
+2025-05-29,Delhi,Biscuits,43
+2025-05-29,Nagpur,Biscuits,75
+2025-05-29,Pune,Biscuits,36
+2025-05-29,Chennai,Biscuits,61
+2025-05-29,Lucknow,Biscuits,55
+2025-05-29,Delhi,Rice,68
+2025-05-29,Nagpur,Rice,39
+2025-05-29,Pune,Rice,39
+2025-05-29,Chennai,Rice,66
+2025-05-29,Lucknow,Rice,56
+2025-05-29,Delhi,Oil,26
+2025-05-29,Nagpur,Oil,41
+2025-05-29,Pune,Oil,55
+2025-05-29,Chennai,Oil,62
+2025-05-29,Lucknow,Oil,39
+2025-05-29,Delhi,Shampoo,6
+2025-05-29,Nagpur,Shampoo,57
+2025-05-29,Pune,Shampoo,31
+2025-05-29,Chennai,Shampoo,19
+2025-05-29,Lucknow,Shampoo,7
+2025-05-29,Delhi,Toothpaste,62
+2025-05-29,Nagpur,Toothpaste,51
+2025-05-29,Pune,Toothpaste,46
+2025-05-29,Chennai,Toothpaste,70
+2025-05-29,Lucknow,Toothpaste,59
+2025-05-29,Delhi,Juice,74
+2025-05-29,Nagpur,Juice,29
+2025-05-29,Pune,Juice,49
+2025-05-29,Chennai,Juice,25
+2025-05-29,Lucknow,Juice,46
+2025-05-30,Delhi,Milk,46
+2025-05-30,Nagpur,Milk,59
+2025-05-30,Pune,Milk,50
+2025-05-30,Chennai,Milk,59
+2025-05-30,Lucknow,Milk,60
+2025-05-30,Delhi,Chips,82
+2025-05-30,Nagpur,Chips,45
+2025-05-30,Pune,Chips,35
+2025-05-30,Chennai,Chips,53
+2025-05-30,Lucknow,Chips,37
+2025-05-30,Delhi,Soap,72
+2025-05-30,Nagpur,Soap,45
+2025-05-30,Pune,Soap,41
+2025-05-30,Chennai,Soap,42
+2025-05-30,Lucknow,Soap,60
+2025-05-30,Delhi,Water Bottle,47
+2025-05-30,Nagpur,Water Bottle,40
+2025-05-30,Pune,Water Bottle,74
+2025-05-30,Chennai,Water Bottle,37
+2025-05-30,Lucknow,Water Bottle,50
+2025-05-30,Delhi,Biscuits,59
+2025-05-30,Nagpur,Biscuits,25
+2025-05-30,Pune,Biscuits,57
+2025-05-30,Chennai,Biscuits,34
+2025-05-30,Lucknow,Biscuits,62
+2025-05-30,Delhi,Rice,35
+2025-05-30,Nagpur,Rice,60
+2025-05-30,Pune,Rice,66
+2025-05-30,Chennai,Rice,62
+2025-05-30,Lucknow,Rice,53
+2025-05-30,Delhi,Oil,46
+2025-05-30,Nagpur,Oil,41
+2025-05-30,Pune,Oil,72
+2025-05-30,Chennai,Oil,39
+2025-05-30,Lucknow,Oil,34
+2025-05-30,Delhi,Shampoo,59
+2025-05-30,Nagpur,Shampoo,38
+2025-05-30,Pune,Shampoo,35
+2025-05-30,Chennai,Shampoo,28
+2025-05-30,Lucknow,Shampoo,42
+2025-05-30,Delhi,Toothpaste,48
+2025-05-30,Nagpur,Toothpaste,53
+2025-05-30,Pune,Toothpaste,64
+2025-05-30,Chennai,Toothpaste,57
+2025-05-30,Lucknow,Toothpaste,47
+2025-05-30,Delhi,Juice,47
+2025-05-30,Nagpur,Juice,57
+2025-05-30,Pune,Juice,69
+2025-05-30,Chennai,Juice,51
+2025-05-30,Lucknow,Juice,42
+2025-05-31,Delhi,Milk,35
+2025-05-31,Nagpur,Milk,28
+2025-05-31,Pune,Milk,59
+2025-05-31,Chennai,Milk,58
+2025-05-31,Lucknow,Milk,58
+2025-05-31,Delhi,Chips,48
+2025-05-31,Nagpur,Chips,71
+2025-05-31,Pune,Chips,42
+2025-05-31,Chennai,Chips,64
+2025-05-31,Lucknow,Chips,49
+2025-05-31,Delhi,Soap,40
+2025-05-31,Nagpur,Soap,58
+2025-05-31,Pune,Soap,56
+2025-05-31,Chennai,Soap,55
+2025-05-31,Lucknow,Soap,51
+2025-05-31,Delhi,Water Bottle,49
+2025-05-31,Nagpur,Water Bottle,85
+2025-05-31,Pune,Water Bottle,67
+2025-05-31,Chennai,Water Bottle,60
+2025-05-31,Lucknow,Water Bottle,51
+2025-05-31,Delhi,Biscuits,65
+2025-05-31,Nagpur,Biscuits,57
+2025-05-31,Pune,Biscuits,50
+2025-05-31,Chennai,Biscuits,45
+2025-05-31,Lucknow,Biscuits,48
+2025-05-31,Delhi,Rice,2
+2025-05-31,Nagpur,Rice,53
+2025-05-31,Pune,Rice,42
+2025-05-31,Chennai,Rice,73
+2025-05-31,Lucknow,Rice,50
+2025-05-31,Delhi,Oil,32
+2025-05-31,Nagpur,Oil,49
+2025-05-31,Pune,Oil,34
+2025-05-31,Chennai,Oil,57
+2025-05-31,Lucknow,Oil,54
+2025-05-31,Delhi,Shampoo,64
+2025-05-31,Nagpur,Shampoo,38
+2025-05-31,Pune,Shampoo,50
+2025-05-31,Chennai,Shampoo,29
+2025-05-31,Lucknow,Shampoo,60
+2025-05-31,Delhi,Toothpaste,57
+2025-05-31,Nagpur,Toothpaste,57
+2025-05-31,Pune,Toothpaste,50
+2025-05-31,Chennai,Toothpaste,56
+2025-05-31,Lucknow,Toothpaste,74
+2025-05-31,Delhi,Juice,45
+2025-05-31,Nagpur,Juice,52
+2025-05-31,Pune,Juice,33
+2025-05-31,Chennai,Juice,36
+2025-05-31,Lucknow,Juice,51
+2025-06-01,Delhi,Milk,66
+2025-06-01,Nagpur,Milk,46
+2025-06-01,Pune,Milk,46
+2025-06-01,Chennai,Milk,43
+2025-06-01,Lucknow,Milk,41
+2025-06-01,Delhi,Chips,54
+2025-06-01,Nagpur,Chips,27
+2025-06-01,Pune,Chips,69
+2025-06-01,Chennai,Chips,40
+2025-06-01,Lucknow,Chips,60
+2025-06-01,Delhi,Soap,30
+2025-06-01,Nagpur,Soap,60
+2025-06-01,Pune,Soap,60
+2025-06-01,Chennai,Soap,55
+2025-06-01,Lucknow,Soap,35
+2025-06-01,Delhi,Water Bottle,53
+2025-06-01,Nagpur,Water Bottle,32
+2025-06-01,Pune,Water Bottle,46
+2025-06-01,Chennai,Water Bottle,65
+2025-06-01,Lucknow,Water Bottle,61
+2025-06-01,Delhi,Biscuits,50
+2025-06-01,Nagpur,Biscuits,35
+2025-06-01,Pune,Biscuits,59
+2025-06-01,Chennai,Biscuits,50
+2025-06-01,Lucknow,Biscuits,15
+2025-06-01,Delhi,Rice,61
+2025-06-01,Nagpur,Rice,49
+2025-06-01,Pune,Rice,68
+2025-06-01,Chennai,Rice,33
+2025-06-01,Lucknow,Rice,2
+2025-06-01,Delhi,Oil,54
+2025-06-01,Nagpur,Oil,54
+2025-06-01,Pune,Oil,24
+2025-06-01,Chennai,Oil,35
+2025-06-01,Lucknow,Oil,91
+2025-06-01,Delhi,Shampoo,45
+2025-06-01,Nagpur,Shampoo,60
+2025-06-01,Pune,Shampoo,40
+2025-06-01,Chennai,Shampoo,18
+2025-06-01,Lucknow,Shampoo,47
+2025-06-01,Delhi,Toothpaste,46
+2025-06-01,Nagpur,Toothpaste,44
+2025-06-01,Pune,Toothpaste,48
+2025-06-01,Chennai,Toothpaste,53
+2025-06-01,Lucknow,Toothpaste,47
+2025-06-01,Delhi,Juice,31
+2025-06-01,Nagpur,Juice,57
+2025-06-01,Pune,Juice,20
+2025-06-01,Chennai,Juice,19
+2025-06-01,Lucknow,Juice,61
+2025-06-02,Delhi,Milk,57
+2025-06-02,Nagpur,Milk,49
+2025-06-02,Pune,Milk,29
+2025-06-02,Chennai,Milk,39
+2025-06-02,Lucknow,Milk,46
+2025-06-02,Delhi,Chips,26
+2025-06-02,Nagpur,Chips,38
+2025-06-02,Pune,Chips,59
+2025-06-02,Chennai,Chips,71
+2025-06-02,Lucknow,Chips,43
+2025-06-02,Delhi,Soap,61
+2025-06-02,Nagpur,Soap,21
+2025-06-02,Pune,Soap,59
+2025-06-02,Chennai,Soap,37
+2025-06-02,Lucknow,Soap,54
+2025-06-02,Delhi,Water Bottle,46
+2025-06-02,Nagpur,Water Bottle,69
+2025-06-02,Pune,Water Bottle,36
+2025-06-02,Chennai,Water Bottle,59
+2025-06-02,Lucknow,Water Bottle,45
+2025-06-02,Delhi,Biscuits,47
+2025-06-02,Nagpur,Biscuits,47
+2025-06-02,Pune,Biscuits,37
+2025-06-02,Chennai,Biscuits,49
+2025-06-02,Lucknow,Biscuits,49
+2025-06-02,Delhi,Rice,53
+2025-06-02,Nagpur,Rice,51
+2025-06-02,Pune,Rice,61
+2025-06-02,Chennai,Rice,63
+2025-06-02,Lucknow,Rice,34
+2025-06-02,Delhi,Oil,63
+2025-06-02,Nagpur,Oil,32
+2025-06-02,Pune,Oil,58
+2025-06-02,Chennai,Oil,59
+2025-06-02,Lucknow,Oil,21
+2025-06-02,Delhi,Shampoo,51
+2025-06-02,Nagpur,Shampoo,42
+2025-06-02,Pune,Shampoo,38
+2025-06-02,Chennai,Shampoo,70
+2025-06-02,Lucknow,Shampoo,40
+2025-06-02,Delhi,Toothpaste,37
+2025-06-02,Nagpur,Toothpaste,51
+2025-06-02,Pune,Toothpaste,60
+2025-06-02,Chennai,Toothpaste,47
+2025-06-02,Lucknow,Toothpaste,67
+2025-06-02,Delhi,Juice,57
+2025-06-02,Nagpur,Juice,17
+2025-06-02,Pune,Juice,42
+2025-06-02,Chennai,Juice,41
+2025-06-02,Lucknow,Juice,57
+2025-06-03,Delhi,Milk,10
+2025-06-03,Nagpur,Milk,88
+2025-06-03,Pune,Milk,57
+2025-06-03,Chennai,Milk,52
+2025-06-03,Lucknow,Milk,67
+2025-06-03,Delhi,Chips,85
+2025-06-03,Nagpur,Chips,63
+2025-06-03,Pune,Chips,64
+2025-06-03,Chennai,Chips,51
+2025-06-03,Lucknow,Chips,47
+2025-06-03,Delhi,Soap,42
+2025-06-03,Nagpur,Soap,37
+2025-06-03,Pune,Soap,39
+2025-06-03,Chennai,Soap,29
+2025-06-03,Lucknow,Soap,48
+2025-06-03,Delhi,Water Bottle,24
+2025-06-03,Nagpur,Water Bottle,52
+2025-06-03,Pune,Water Bottle,49
+2025-06-03,Chennai,Water Bottle,52
+2025-06-03,Lucknow,Water Bottle,42
+2025-06-03,Delhi,Biscuits,96
+2025-06-03,Nagpur,Biscuits,70
+2025-06-03,Pune,Biscuits,31
+2025-06-03,Chennai,Biscuits,53
+2025-06-03,Lucknow,Biscuits,40
+2025-06-03,Delhi,Rice,34
+2025-06-03,Nagpur,Rice,29
+2025-06-03,Pune,Rice,56
+2025-06-03,Chennai,Rice,39
+2025-06-03,Lucknow,Rice,64
+2025-06-03,Delhi,Oil,64
+2025-06-03,Nagpur,Oil,70
+2025-06-03,Pune,Oil,37
+2025-06-03,Chennai,Oil,57
+2025-06-03,Lucknow,Oil,59
+2025-06-03,Delhi,Shampoo,42
+2025-06-03,Nagpur,Shampoo,38
+2025-06-03,Pune,Shampoo,74
+2025-06-03,Chennai,Shampoo,53
+2025-06-03,Lucknow,Shampoo,59
+2025-06-03,Delhi,Toothpaste,37
+2025-06-03,Nagpur,Toothpaste,31
+2025-06-03,Pune,Toothpaste,41
+2025-06-03,Chennai,Toothpaste,48
+2025-06-03,Lucknow,Toothpaste,34
+2025-06-03,Delhi,Juice,49
+2025-06-03,Nagpur,Juice,24
+2025-06-03,Pune,Juice,33
+2025-06-03,Chennai,Juice,60
+2025-06-03,Lucknow,Juice,59
+2025-06-04,Delhi,Milk,44
+2025-06-04,Nagpur,Milk,34
+2025-06-04,Pune,Milk,34
+2025-06-04,Chennai,Milk,44
+2025-06-04,Lucknow,Milk,59
+2025-06-04,Delhi,Chips,63
+2025-06-04,Nagpur,Chips,42
+2025-06-04,Pune,Chips,32
+2025-06-04,Chennai,Chips,54
+2025-06-04,Lucknow,Chips,37
+2025-06-04,Delhi,Soap,42
+2025-06-04,Nagpur,Soap,69
+2025-06-04,Pune,Soap,62
+2025-06-04,Chennai,Soap,52
+2025-06-04,Lucknow,Soap,30
+2025-06-04,Delhi,Water Bottle,53
+2025-06-04,Nagpur,Water Bottle,65
+2025-06-04,Pune,Water Bottle,44
+2025-06-04,Chennai,Water Bottle,70
+2025-06-04,Lucknow,Water Bottle,69
+2025-06-04,Delhi,Biscuits,74
+2025-06-04,Nagpur,Biscuits,54
+2025-06-04,Pune,Biscuits,58
+2025-06-04,Chennai,Biscuits,71
+2025-06-04,Lucknow,Biscuits,56
+2025-06-04,Delhi,Rice,42
+2025-06-04,Nagpur,Rice,43
+2025-06-04,Pune,Rice,53
+2025-06-04,Chennai,Rice,30
+2025-06-04,Lucknow,Rice,47
+2025-06-04,Delhi,Oil,66
+2025-06-04,Nagpur,Oil,17
+2025-06-04,Pune,Oil,73
+2025-06-04,Chennai,Oil,66
+2025-06-04,Lucknow,Oil,43
+2025-06-04,Delhi,Shampoo,58
+2025-06-04,Nagpur,Shampoo,50
+2025-06-04,Pune,Shampoo,68
+2025-06-04,Chennai,Shampoo,64
+2025-06-04,Lucknow,Shampoo,28
+2025-06-04,Delhi,Toothpaste,58
+2025-06-04,Nagpur,Toothpaste,46
+2025-06-04,Pune,Toothpaste,51
+2025-06-04,Chennai,Toothpaste,39
+2025-06-04,Lucknow,Toothpaste,76
+2025-06-04,Delhi,Juice,65
+2025-06-04,Nagpur,Juice,38
+2025-06-04,Pune,Juice,29
+2025-06-04,Chennai,Juice,44
+2025-06-04,Lucknow,Juice,56
+2025-06-05,Delhi,Milk,53
+2025-06-05,Nagpur,Milk,68
+2025-06-05,Pune,Milk,61
+2025-06-05,Chennai,Milk,64
+2025-06-05,Lucknow,Milk,54
+2025-06-05,Delhi,Chips,29
+2025-06-05,Nagpur,Chips,47
+2025-06-05,Pune,Chips,65
+2025-06-05,Chennai,Chips,49
+2025-06-05,Lucknow,Chips,57
+2025-06-05,Delhi,Soap,45
+2025-06-05,Nagpur,Soap,34
+2025-06-05,Pune,Soap,48
+2025-06-05,Chennai,Soap,54
+2025-06-05,Lucknow,Soap,40
+2025-06-05,Delhi,Water Bottle,46
+2025-06-05,Nagpur,Water Bottle,35
+2025-06-05,Pune,Water Bottle,66
+2025-06-05,Chennai,Water Bottle,45
+2025-06-05,Lucknow,Water Bottle,71
+2025-06-05,Delhi,Biscuits,72
+2025-06-05,Nagpur,Biscuits,48
+2025-06-05,Pune,Biscuits,34
+2025-06-05,Chennai,Biscuits,18
+2025-06-05,Lucknow,Biscuits,27
+2025-06-05,Delhi,Rice,29
+2025-06-05,Nagpur,Rice,70
+2025-06-05,Pune,Rice,51
+2025-06-05,Chennai,Rice,55
+2025-06-05,Lucknow,Rice,16
+2025-06-05,Delhi,Oil,32
+2025-06-05,Nagpur,Oil,63
+2025-06-05,Pune,Oil,54
+2025-06-05,Chennai,Oil,47
+2025-06-05,Lucknow,Oil,58
+2025-06-05,Delhi,Shampoo,74
+2025-06-05,Nagpur,Shampoo,46
+2025-06-05,Pune,Shampoo,51
+2025-06-05,Chennai,Shampoo,52
+2025-06-05,Lucknow,Shampoo,85
+2025-06-05,Delhi,Toothpaste,18
+2025-06-05,Nagpur,Toothpaste,60
+2025-06-05,Pune,Toothpaste,48
+2025-06-05,Chennai,Toothpaste,58
+2025-06-05,Lucknow,Toothpaste,40
+2025-06-05,Delhi,Juice,49
+2025-06-05,Nagpur,Juice,60
+2025-06-05,Pune,Juice,96
+2025-06-05,Chennai,Juice,62
+2025-06-05,Lucknow,Juice,37
+2025-06-06,Delhi,Milk,43
+2025-06-06,Nagpur,Milk,43
+2025-06-06,Pune,Milk,23
+2025-06-06,Chennai,Milk,45
+2025-06-06,Lucknow,Milk,60
+2025-06-06,Delhi,Chips,30
+2025-06-06,Nagpur,Chips,65
+2025-06-06,Pune,Chips,57
+2025-06-06,Chennai,Chips,38
+2025-06-06,Lucknow,Chips,47
+2025-06-06,Delhi,Soap,73
+2025-06-06,Nagpur,Soap,61
+2025-06-06,Pune,Soap,50
+2025-06-06,Chennai,Soap,46
+2025-06-06,Lucknow,Soap,51
+2025-06-06,Delhi,Water Bottle,42
+2025-06-06,Nagpur,Water Bottle,18
+2025-06-06,Pune,Water Bottle,80
+2025-06-06,Chennai,Water Bottle,52
+2025-06-06,Lucknow,Water Bottle,55
+2025-06-06,Delhi,Biscuits,49
+2025-06-06,Nagpur,Biscuits,38
+2025-06-06,Pune,Biscuits,47
+2025-06-06,Chennai,Biscuits,26
+2025-06-06,Lucknow,Biscuits,84
+2025-06-06,Delhi,Rice,31
+2025-06-06,Nagpur,Rice,34
+2025-06-06,Pune,Rice,43
+2025-06-06,Chennai,Rice,69
+2025-06-06,Lucknow,Rice,50
+2025-06-06,Delhi,Oil,31
+2025-06-06,Nagpur,Oil,68
+2025-06-06,Pune,Oil,60
+2025-06-06,Chennai,Oil,58
+2025-06-06,Lucknow,Oil,60
+2025-06-06,Delhi,Shampoo,85
+2025-06-06,Nagpur,Shampoo,82
+2025-06-06,Pune,Shampoo,39
+2025-06-06,Chennai,Shampoo,74
+2025-06-06,Lucknow,Shampoo,55
+2025-06-06,Delhi,Toothpaste,57
+2025-06-06,Nagpur,Toothpaste,24
+2025-06-06,Pune,Toothpaste,47
+2025-06-06,Chennai,Toothpaste,37
+2025-06-06,Lucknow,Toothpaste,62
+2025-06-06,Delhi,Juice,66
+2025-06-06,Nagpur,Juice,18
+2025-06-06,Pune,Juice,49
+2025-06-06,Chennai,Juice,66
+2025-06-06,Lucknow,Juice,47
+2025-06-07,Delhi,Milk,60
+2025-06-07,Nagpur,Milk,55
+2025-06-07,Pune,Milk,55
+2025-06-07,Chennai,Milk,45
+2025-06-07,Lucknow,Milk,31
+2025-06-07,Delhi,Chips,33
+2025-06-07,Nagpur,Chips,60
+2025-06-07,Pune,Chips,50
+2025-06-07,Chennai,Chips,47
+2025-06-07,Lucknow,Chips,43
+2025-06-07,Delhi,Soap,45
+2025-06-07,Nagpur,Soap,65
+2025-06-07,Pune,Soap,44
+2025-06-07,Chennai,Soap,29
+2025-06-07,Lucknow,Soap,61
+2025-06-07,Delhi,Water Bottle,46
+2025-06-07,Nagpur,Water Bottle,50
+2025-06-07,Pune,Water Bottle,74
+2025-06-07,Chennai,Water Bottle,49
+2025-06-07,Lucknow,Water Bottle,54
+2025-06-07,Delhi,Biscuits,32
+2025-06-07,Nagpur,Biscuits,46
+2025-06-07,Pune,Biscuits,59
+2025-06-07,Chennai,Biscuits,26
+2025-06-07,Lucknow,Biscuits,53
+2025-06-07,Delhi,Rice,51
+2025-06-07,Nagpur,Rice,50
+2025-06-07,Pune,Rice,65
+2025-06-07,Chennai,Rice,55
+2025-06-07,Lucknow,Rice,72
+2025-06-07,Delhi,Oil,35
+2025-06-07,Nagpur,Oil,52
+2025-06-07,Pune,Oil,51
+2025-06-07,Chennai,Oil,33
+2025-06-07,Lucknow,Oil,64
+2025-06-07,Delhi,Shampoo,84
+2025-06-07,Nagpur,Shampoo,49
+2025-06-07,Pune,Shampoo,57
+2025-06-07,Chennai,Shampoo,51
+2025-06-07,Lucknow,Shampoo,39
+2025-06-07,Delhi,Toothpaste,22
+2025-06-07,Nagpur,Toothpaste,39
+2025-06-07,Pune,Toothpaste,29
+2025-06-07,Chennai,Toothpaste,75
+2025-06-07,Lucknow,Toothpaste,48
+2025-06-07,Delhi,Juice,44
+2025-06-07,Nagpur,Juice,63
+2025-06-07,Pune,Juice,33
+2025-06-07,Chennai,Juice,38
+2025-06-07,Lucknow,Juice,51
+2025-06-08,Delhi,Milk,65
+2025-06-08,Nagpur,Milk,57
+2025-06-08,Pune,Milk,53
+2025-06-08,Chennai,Milk,51
+2025-06-08,Lucknow,Milk,56
+2025-06-08,Delhi,Chips,53
+2025-06-08,Nagpur,Chips,34
+2025-06-08,Pune,Chips,50
+2025-06-08,Chennai,Chips,33
+2025-06-08,Lucknow,Chips,51
+2025-06-08,Delhi,Soap,42
+2025-06-08,Nagpur,Soap,88
+2025-06-08,Pune,Soap,49
+2025-06-08,Chennai,Soap,28
+2025-06-08,Lucknow,Soap,47
+2025-06-08,Delhi,Water Bottle,57
+2025-06-08,Nagpur,Water Bottle,75
+2025-06-08,Pune,Water Bottle,41
+2025-06-08,Chennai,Water Bottle,26
+2025-06-08,Lucknow,Water Bottle,62
+2025-06-08,Delhi,Biscuits,29
+2025-06-08,Nagpur,Biscuits,43
+2025-06-08,Pune,Biscuits,46
+2025-06-08,Chennai,Biscuits,48
+2025-06-08,Lucknow,Biscuits,60
+2025-06-08,Delhi,Rice,39
+2025-06-08,Nagpur,Rice,45
+2025-06-08,Pune,Rice,49
+2025-06-08,Chennai,Rice,52
+2025-06-08,Lucknow,Rice,51
+2025-06-08,Delhi,Oil,56
+2025-06-08,Nagpur,Oil,62
+2025-06-08,Pune,Oil,55
+2025-06-08,Chennai,Oil,56
+2025-06-08,Lucknow,Oil,26
+2025-06-08,Delhi,Shampoo,50
+2025-06-08,Nagpur,Shampoo,57
+2025-06-08,Pune,Shampoo,60
+2025-06-08,Chennai,Shampoo,39
+2025-06-08,Lucknow,Shampoo,40
+2025-06-08,Delhi,Toothpaste,41
+2025-06-08,Nagpur,Toothpaste,58
+2025-06-08,Pune,Toothpaste,65
+2025-06-08,Chennai,Toothpaste,43
+2025-06-08,Lucknow,Toothpaste,63
+2025-06-08,Delhi,Juice,51
+2025-06-08,Nagpur,Juice,48
+2025-06-08,Pune,Juice,46
+2025-06-08,Chennai,Juice,61
+2025-06-08,Lucknow,Juice,54
+2025-06-09,Delhi,Milk,84
+2025-06-09,Nagpur,Milk,37
+2025-06-09,Pune,Milk,57
+2025-06-09,Chennai,Milk,42
+2025-06-09,Lucknow,Milk,36
+2025-06-09,Delhi,Chips,49
+2025-06-09,Nagpur,Chips,52
+2025-06-09,Pune,Chips,93
+2025-06-09,Chennai,Chips,47
+2025-06-09,Lucknow,Chips,33
+2025-06-09,Delhi,Soap,54
+2025-06-09,Nagpur,Soap,18
+2025-06-09,Pune,Soap,48
+2025-06-09,Chennai,Soap,50
+2025-06-09,Lucknow,Soap,61
+2025-06-09,Delhi,Water Bottle,64
+2025-06-09,Nagpur,Water Bottle,42
+2025-06-09,Pune,Water Bottle,47
+2025-06-09,Chennai,Water Bottle,38
+2025-06-09,Lucknow,Water Bottle,33
+2025-06-09,Delhi,Biscuits,54
+2025-06-09,Nagpur,Biscuits,30
+2025-06-09,Pune,Biscuits,43
+2025-06-09,Chennai,Biscuits,35
+2025-06-09,Lucknow,Biscuits,58
+2025-06-09,Delhi,Rice,77
+2025-06-09,Nagpur,Rice,30
+2025-06-09,Pune,Rice,22
+2025-06-09,Chennai,Rice,48
+2025-06-09,Lucknow,Rice,50
+2025-06-09,Delhi,Oil,53
+2025-06-09,Nagpur,Oil,43
+2025-06-09,Pune,Oil,46
+2025-06-09,Chennai,Oil,55
+2025-06-09,Lucknow,Oil,65
+2025-06-09,Delhi,Shampoo,20
+2025-06-09,Nagpur,Shampoo,44
+2025-06-09,Pune,Shampoo,53
+2025-06-09,Chennai,Shampoo,36
+2025-06-09,Lucknow,Shampoo,75
+2025-06-09,Delhi,Toothpaste,40
+2025-06-09,Nagpur,Toothpaste,49
+2025-06-09,Pune,Toothpaste,58
+2025-06-09,Chennai,Toothpaste,41
+2025-06-09,Lucknow,Toothpaste,22
+2025-06-09,Delhi,Juice,43
+2025-06-09,Nagpur,Juice,65
+2025-06-09,Pune,Juice,44
+2025-06-09,Chennai,Juice,37
+2025-06-09,Lucknow,Juice,63
+2025-06-10,Delhi,Milk,45
+2025-06-10,Nagpur,Milk,42
+2025-06-10,Pune,Milk,52
+2025-06-10,Chennai,Milk,61
+2025-06-10,Lucknow,Milk,85
+2025-06-10,Delhi,Chips,62
+2025-06-10,Nagpur,Chips,67
+2025-06-10,Pune,Chips,42
+2025-06-10,Chennai,Chips,34
+2025-06-10,Lucknow,Chips,50
+2025-06-10,Delhi,Soap,51
+2025-06-10,Nagpur,Soap,33
+2025-06-10,Pune,Soap,47
+2025-06-10,Chennai,Soap,55
+2025-06-10,Lucknow,Soap,55
+2025-06-10,Delhi,Water Bottle,57
+2025-06-10,Nagpur,Water Bottle,54
+2025-06-10,Pune,Water Bottle,42
+2025-06-10,Chennai,Water Bottle,42
+2025-06-10,Lucknow,Water Bottle,32
+2025-06-10,Delhi,Biscuits,76
+2025-06-10,Nagpur,Biscuits,50
+2025-06-10,Pune,Biscuits,46
+2025-06-10,Chennai,Biscuits,36
+2025-06-10,Lucknow,Biscuits,94
+2025-06-10,Delhi,Rice,33
+2025-06-10,Nagpur,Rice,43
+2025-06-10,Pune,Rice,56
+2025-06-10,Chennai,Rice,59
+2025-06-10,Lucknow,Rice,64
+2025-06-10,Delhi,Oil,77
+2025-06-10,Nagpur,Oil,57
+2025-06-10,Pune,Oil,34
+2025-06-10,Chennai,Oil,46
+2025-06-10,Lucknow,Oil,54
+2025-06-10,Delhi,Shampoo,81
+2025-06-10,Nagpur,Shampoo,29
+2025-06-10,Pune,Shampoo,68
+2025-06-10,Chennai,Shampoo,52
+2025-06-10,Lucknow,Shampoo,62
+2025-06-10,Delhi,Toothpaste,48
+2025-06-10,Nagpur,Toothpaste,37
+2025-06-10,Pune,Toothpaste,61
+2025-06-10,Chennai,Toothpaste,59
+2025-06-10,Lucknow,Toothpaste,64
+2025-06-10,Delhi,Juice,49
+2025-06-10,Nagpur,Juice,41
+2025-06-10,Pune,Juice,26
+2025-06-10,Chennai,Juice,62
+2025-06-10,Lucknow,Juice,56
+2025-06-11,Delhi,Milk,35
+2025-06-11,Nagpur,Milk,41
+2025-06-11,Pune,Milk,42
+2025-06-11,Chennai,Milk,27
+2025-06-11,Lucknow,Milk,37
+2025-06-11,Delhi,Chips,32
+2025-06-11,Nagpur,Chips,43
+2025-06-11,Pune,Chips,38
+2025-06-11,Chennai,Chips,25
+2025-06-11,Lucknow,Chips,80
+2025-06-11,Delhi,Soap,68
+2025-06-11,Nagpur,Soap,38
+2025-06-11,Pune,Soap,54
+2025-06-11,Chennai,Soap,56
+2025-06-11,Lucknow,Soap,67
+2025-06-11,Delhi,Water Bottle,37
+2025-06-11,Nagpur,Water Bottle,66
+2025-06-11,Pune,Water Bottle,41
+2025-06-11,Chennai,Water Bottle,29
+2025-06-11,Lucknow,Water Bottle,60
+2025-06-11,Delhi,Biscuits,69
+2025-06-11,Nagpur,Biscuits,88
+2025-06-11,Pune,Biscuits,32
+2025-06-11,Chennai,Biscuits,60
+2025-06-11,Lucknow,Biscuits,43
+2025-06-11,Delhi,Rice,61
+2025-06-11,Nagpur,Rice,27
+2025-06-11,Pune,Rice,31
+2025-06-11,Chennai,Rice,38
+2025-06-11,Lucknow,Rice,51
+2025-06-11,Delhi,Oil,40
+2025-06-11,Nagpur,Oil,59
+2025-06-11,Pune,Oil,65
+2025-06-11,Chennai,Oil,58
+2025-06-11,Lucknow,Oil,74
+2025-06-11,Delhi,Shampoo,56
+2025-06-11,Nagpur,Shampoo,31
+2025-06-11,Pune,Shampoo,70
+2025-06-11,Chennai,Shampoo,40
+2025-06-11,Lucknow,Shampoo,63
+2025-06-11,Delhi,Toothpaste,73
+2025-06-11,Nagpur,Toothpaste,56
+2025-06-11,Pune,Toothpaste,27
+2025-06-11,Chennai,Toothpaste,36
+2025-06-11,Lucknow,Toothpaste,69
+2025-06-11,Delhi,Juice,47
+2025-06-11,Nagpur,Juice,51
+2025-06-11,Pune,Juice,61
+2025-06-11,Chennai,Juice,60
+2025-06-11,Lucknow,Juice,54
+2025-06-12,Delhi,Milk,46
+2025-06-12,Nagpur,Milk,45
+2025-06-12,Pune,Milk,62
+2025-06-12,Chennai,Milk,58
+2025-06-12,Lucknow,Milk,46
+2025-06-12,Delhi,Chips,66
+2025-06-12,Nagpur,Chips,48
+2025-06-12,Pune,Chips,37
+2025-06-12,Chennai,Chips,38
+2025-06-12,Lucknow,Chips,35
+2025-06-12,Delhi,Soap,45
+2025-06-12,Nagpur,Soap,68
+2025-06-12,Pune,Soap,37
+2025-06-12,Chennai,Soap,52
+2025-06-12,Lucknow,Soap,40
+2025-06-12,Delhi,Water Bottle,46
+2025-06-12,Nagpur,Water Bottle,27
+2025-06-12,Pune,Water Bottle,46
+2025-06-12,Chennai,Water Bottle,47
+2025-06-12,Lucknow,Water Bottle,58
+2025-06-12,Delhi,Biscuits,53
+2025-06-12,Nagpur,Biscuits,32
+2025-06-12,Pune,Biscuits,66
+2025-06-12,Chennai,Biscuits,53
+2025-06-12,Lucknow,Biscuits,52
+2025-06-12,Delhi,Rice,49
+2025-06-12,Nagpur,Rice,42
+2025-06-12,Pune,Rice,53
+2025-06-12,Chennai,Rice,57
+2025-06-12,Lucknow,Rice,23
+2025-06-12,Delhi,Oil,41
+2025-06-12,Nagpur,Oil,46
+2025-06-12,Pune,Oil,53
+2025-06-12,Chennai,Oil,67
+2025-06-12,Lucknow,Oil,38
+2025-06-12,Delhi,Shampoo,42
+2025-06-12,Nagpur,Shampoo,42
+2025-06-12,Pune,Shampoo,37
+2025-06-12,Chennai,Shampoo,44
+2025-06-12,Lucknow,Shampoo,61
+2025-06-12,Delhi,Toothpaste,34
+2025-06-12,Nagpur,Toothpaste,56
+2025-06-12,Pune,Toothpaste,24
+2025-06-12,Chennai,Toothpaste,41
+2025-06-12,Lucknow,Toothpaste,45
+2025-06-12,Delhi,Juice,75
+2025-06-12,Nagpur,Juice,45
+2025-06-12,Pune,Juice,16
+2025-06-12,Chennai,Juice,20
+2025-06-12,Lucknow,Juice,50
+2025-06-13,Delhi,Milk,59
+2025-06-13,Nagpur,Milk,55
+2025-06-13,Pune,Milk,52
+2025-06-13,Chennai,Milk,67
+2025-06-13,Lucknow,Milk,41
+2025-06-13,Delhi,Chips,63
+2025-06-13,Nagpur,Chips,25
+2025-06-13,Pune,Chips,36
+2025-06-13,Chennai,Chips,22
+2025-06-13,Lucknow,Chips,45
+2025-06-13,Delhi,Soap,49
+2025-06-13,Nagpur,Soap,51
+2025-06-13,Pune,Soap,50
+2025-06-13,Chennai,Soap,36
+2025-06-13,Lucknow,Soap,47
+2025-06-13,Delhi,Water Bottle,27
+2025-06-13,Nagpur,Water Bottle,70
+2025-06-13,Pune,Water Bottle,45
+2025-06-13,Chennai,Water Bottle,42
+2025-06-13,Lucknow,Water Bottle,73
+2025-06-13,Delhi,Biscuits,31
+2025-06-13,Nagpur,Biscuits,33
+2025-06-13,Pune,Biscuits,33
+2025-06-13,Chennai,Biscuits,48
+2025-06-13,Lucknow,Biscuits,56
+2025-06-13,Delhi,Rice,61
+2025-06-13,Nagpur,Rice,88
+2025-06-13,Pune,Rice,16
+2025-06-13,Chennai,Rice,59
+2025-06-13,Lucknow,Rice,41
+2025-06-13,Delhi,Oil,41
+2025-06-13,Nagpur,Oil,40
+2025-06-13,Pune,Oil,36
+2025-06-13,Chennai,Oil,75
+2025-06-13,Lucknow,Oil,62
+2025-06-13,Delhi,Shampoo,50
+2025-06-13,Nagpur,Shampoo,70
+2025-06-13,Pune,Shampoo,27
+2025-06-13,Chennai,Shampoo,30
+2025-06-13,Lucknow,Shampoo,17
+2025-06-13,Delhi,Toothpaste,39
+2025-06-13,Nagpur,Toothpaste,52
+2025-06-13,Pune,Toothpaste,51
+2025-06-13,Chennai,Toothpaste,52
+2025-06-13,Lucknow,Toothpaste,28
+2025-06-13,Delhi,Juice,62
+2025-06-13,Nagpur,Juice,53
+2025-06-13,Pune,Juice,60
+2025-06-13,Chennai,Juice,21
+2025-06-13,Lucknow,Juice,54
+2025-06-14,Delhi,Milk,32
+2025-06-14,Nagpur,Milk,44
+2025-06-14,Pune,Milk,58
+2025-06-14,Chennai,Milk,51
+2025-06-14,Lucknow,Milk,37
+2025-06-14,Delhi,Chips,50
+2025-06-14,Nagpur,Chips,27
+2025-06-14,Pune,Chips,67
+2025-06-14,Chennai,Chips,46
+2025-06-14,Lucknow,Chips,66
+2025-06-14,Delhi,Soap,42
+2025-06-14,Nagpur,Soap,42
+2025-06-14,Pune,Soap,38
+2025-06-14,Chennai,Soap,63
+2025-06-14,Lucknow,Soap,39
+2025-06-14,Delhi,Water Bottle,59
+2025-06-14,Nagpur,Water Bottle,44
+2025-06-14,Pune,Water Bottle,20
+2025-06-14,Chennai,Water Bottle,41
+2025-06-14,Lucknow,Water Bottle,32
+2025-06-14,Delhi,Biscuits,50
+2025-06-14,Nagpur,Biscuits,32
+2025-06-14,Pune,Biscuits,63
+2025-06-14,Chennai,Biscuits,48
+2025-06-14,Lucknow,Biscuits,47
+2025-06-14,Delhi,Rice,59
+2025-06-14,Nagpur,Rice,64
+2025-06-14,Pune,Rice,49
+2025-06-14,Chennai,Rice,38
+2025-06-14,Lucknow,Rice,23
+2025-06-14,Delhi,Oil,39
+2025-06-14,Nagpur,Oil,40
+2025-06-14,Pune,Oil,51
+2025-06-14,Chennai,Oil,44
+2025-06-14,Lucknow,Oil,60
+2025-06-14,Delhi,Shampoo,40
+2025-06-14,Nagpur,Shampoo,49
+2025-06-14,Pune,Shampoo,67
+2025-06-14,Chennai,Shampoo,55
+2025-06-14,Lucknow,Shampoo,49
+2025-06-14,Delhi,Toothpaste,40
+2025-06-14,Nagpur,Toothpaste,40
+2025-06-14,Pune,Toothpaste,37
+2025-06-14,Chennai,Toothpaste,41
+2025-06-14,Lucknow,Toothpaste,61
+2025-06-14,Delhi,Juice,46
+2025-06-14,Nagpur,Juice,29
+2025-06-14,Pune,Juice,76
+2025-06-14,Chennai,Juice,54
+2025-06-14,Lucknow,Juice,28
+2025-06-15,Delhi,Milk,43
+2025-06-15,Nagpur,Milk,51
+2025-06-15,Pune,Milk,75
+2025-06-15,Chennai,Milk,33
+2025-06-15,Lucknow,Milk,64
+2025-06-15,Delhi,Chips,70
+2025-06-15,Nagpur,Chips,40
+2025-06-15,Pune,Chips,45
+2025-06-15,Chennai,Chips,34
+2025-06-15,Lucknow,Chips,46
+2025-06-15,Delhi,Soap,49
+2025-06-15,Nagpur,Soap,59
+2025-06-15,Pune,Soap,66
+2025-06-15,Chennai,Soap,38
+2025-06-15,Lucknow,Soap,20
+2025-06-15,Delhi,Water Bottle,49
+2025-06-15,Nagpur,Water Bottle,54
+2025-06-15,Pune,Water Bottle,53
+2025-06-15,Chennai,Water Bottle,45
+2025-06-15,Lucknow,Water Bottle,51
+2025-06-15,Delhi,Biscuits,72
+2025-06-15,Nagpur,Biscuits,55
+2025-06-15,Pune,Biscuits,44
+2025-06-15,Chennai,Biscuits,42
+2025-06-15,Lucknow,Biscuits,47
+2025-06-15,Delhi,Rice,74
+2025-06-15,Nagpur,Rice,47
+2025-06-15,Pune,Rice,49
+2025-06-15,Chennai,Rice,42
+2025-06-15,Lucknow,Rice,66
+2025-06-15,Delhi,Oil,79
+2025-06-15,Nagpur,Oil,56
+2025-06-15,Pune,Oil,51
+2025-06-15,Chennai,Oil,50
+2025-06-15,Lucknow,Oil,14
+2025-06-15,Delhi,Shampoo,61
+2025-06-15,Nagpur,Shampoo,52
+2025-06-15,Pune,Shampoo,56
+2025-06-15,Chennai,Shampoo,39
+2025-06-15,Lucknow,Shampoo,44
+2025-06-15,Delhi,Toothpaste,43
+2025-06-15,Nagpur,Toothpaste,65
+2025-06-15,Pune,Toothpaste,44
+2025-06-15,Chennai,Toothpaste,81
+2025-06-15,Lucknow,Toothpaste,56
+2025-06-15,Delhi,Juice,30
+2025-06-15,Nagpur,Juice,48
+2025-06-15,Pune,Juice,40
+2025-06-15,Chennai,Juice,17
+2025-06-15,Lucknow,Juice,73
+2025-06-16,Delhi,Milk,60
+2025-06-16,Nagpur,Milk,57
+2025-06-16,Pune,Milk,52
+2025-06-16,Chennai,Milk,29
+2025-06-16,Lucknow,Milk,42
+2025-06-16,Delhi,Chips,62
+2025-06-16,Nagpur,Chips,34
+2025-06-16,Pune,Chips,12
+2025-06-16,Chennai,Chips,46
+2025-06-16,Lucknow,Chips,47
+2025-06-16,Delhi,Soap,52
+2025-06-16,Nagpur,Soap,60
+2025-06-16,Pune,Soap,59
+2025-06-16,Chennai,Soap,53
+2025-06-16,Lucknow,Soap,67
+2025-06-16,Delhi,Water Bottle,27
+2025-06-16,Nagpur,Water Bottle,57
+2025-06-16,Pune,Water Bottle,59
+2025-06-16,Chennai,Water Bottle,31
+2025-06-16,Lucknow,Water Bottle,27
+2025-06-16,Delhi,Biscuits,38
+2025-06-16,Nagpur,Biscuits,40
+2025-06-16,Pune,Biscuits,61
+2025-06-16,Chennai,Biscuits,40
+2025-06-16,Lucknow,Biscuits,37
+2025-06-16,Delhi,Rice,40
+2025-06-16,Nagpur,Rice,66
+2025-06-16,Pune,Rice,50
+2025-06-16,Chennai,Rice,47
+2025-06-16,Lucknow,Rice,48
+2025-06-16,Delhi,Oil,69
+2025-06-16,Nagpur,Oil,38
+2025-06-16,Pune,Oil,69
+2025-06-16,Chennai,Oil,53
+2025-06-16,Lucknow,Oil,47
+2025-06-16,Delhi,Shampoo,87
+2025-06-16,Nagpur,Shampoo,34
+2025-06-16,Pune,Shampoo,44
+2025-06-16,Chennai,Shampoo,31
+2025-06-16,Lucknow,Shampoo,64
+2025-06-16,Delhi,Toothpaste,75
+2025-06-16,Nagpur,Toothpaste,75
+2025-06-16,Pune,Toothpaste,68
+2025-06-16,Chennai,Toothpaste,47
+2025-06-16,Lucknow,Toothpaste,44
+2025-06-16,Delhi,Juice,24
+2025-06-16,Nagpur,Juice,80
+2025-06-16,Pune,Juice,57
+2025-06-16,Chennai,Juice,42
+2025-06-16,Lucknow,Juice,69
+2025-06-17,Delhi,Milk,35
+2025-06-17,Nagpur,Milk,56
+2025-06-17,Pune,Milk,47
+2025-06-17,Chennai,Milk,59
+2025-06-17,Lucknow,Milk,49
+2025-06-17,Delhi,Chips,28
+2025-06-17,Nagpur,Chips,51
+2025-06-17,Pune,Chips,65
+2025-06-17,Chennai,Chips,49
+2025-06-17,Lucknow,Chips,61
+2025-06-17,Delhi,Soap,34
+2025-06-17,Nagpur,Soap,49
+2025-06-17,Pune,Soap,40
+2025-06-17,Chennai,Soap,61
+2025-06-17,Lucknow,Soap,50
+2025-06-17,Delhi,Water Bottle,60
+2025-06-17,Nagpur,Water Bottle,66
+2025-06-17,Pune,Water Bottle,60
+2025-06-17,Chennai,Water Bottle,54
+2025-06-17,Lucknow,Water Bottle,35
+2025-06-17,Delhi,Biscuits,49
+2025-06-17,Nagpur,Biscuits,42
+2025-06-17,Pune,Biscuits,44
+2025-06-17,Chennai,Biscuits,44
+2025-06-17,Lucknow,Biscuits,35
+2025-06-17,Delhi,Rice,20
+2025-06-17,Nagpur,Rice,39
+2025-06-17,Pune,Rice,52
+2025-06-17,Chennai,Rice,29
+2025-06-17,Lucknow,Rice,50
+2025-06-17,Delhi,Oil,78
+2025-06-17,Nagpur,Oil,65
+2025-06-17,Pune,Oil,74
+2025-06-17,Chennai,Oil,55
+2025-06-17,Lucknow,Oil,67
+2025-06-17,Delhi,Shampoo,39
+2025-06-17,Nagpur,Shampoo,40
+2025-06-17,Pune,Shampoo,8
+2025-06-17,Chennai,Shampoo,67
+2025-06-17,Lucknow,Shampoo,73
+2025-06-17,Delhi,Toothpaste,41
+2025-06-17,Nagpur,Toothpaste,46
+2025-06-17,Pune,Toothpaste,38
+2025-06-17,Chennai,Toothpaste,55
+2025-06-17,Lucknow,Toothpaste,66
+2025-06-17,Delhi,Juice,23
+2025-06-17,Nagpur,Juice,56
+2025-06-17,Pune,Juice,45
+2025-06-17,Chennai,Juice,51
+2025-06-17,Lucknow,Juice,56
+2025-06-18,Delhi,Milk,47
+2025-06-18,Nagpur,Milk,48
+2025-06-18,Pune,Milk,46
+2025-06-18,Chennai,Milk,64
+2025-06-18,Lucknow,Milk,56
+2025-06-18,Delhi,Chips,53
+2025-06-18,Nagpur,Chips,30
+2025-06-18,Pune,Chips,44
+2025-06-18,Chennai,Chips,63
+2025-06-18,Lucknow,Chips,50
+2025-06-18,Delhi,Soap,59
+2025-06-18,Nagpur,Soap,76
+2025-06-18,Pune,Soap,65
+2025-06-18,Chennai,Soap,51
+2025-06-18,Lucknow,Soap,42
+2025-06-18,Delhi,Water Bottle,11
+2025-06-18,Nagpur,Water Bottle,47
+2025-06-18,Pune,Water Bottle,45
+2025-06-18,Chennai,Water Bottle,55
+2025-06-18,Lucknow,Water Bottle,47
+2025-06-18,Delhi,Biscuits,45
+2025-06-18,Nagpur,Biscuits,23
+2025-06-18,Pune,Biscuits,35
+2025-06-18,Chennai,Biscuits,57
+2025-06-18,Lucknow,Biscuits,75
+2025-06-18,Delhi,Rice,48
+2025-06-18,Nagpur,Rice,54
+2025-06-18,Pune,Rice,64
+2025-06-18,Chennai,Rice,37
+2025-06-18,Lucknow,Rice,55
+2025-06-18,Delhi,Oil,38
+2025-06-18,Nagpur,Oil,62
+2025-06-18,Pune,Oil,52
+2025-06-18,Chennai,Oil,54
+2025-06-18,Lucknow,Oil,38
+2025-06-18,Delhi,Shampoo,60
+2025-06-18,Nagpur,Shampoo,81
+2025-06-18,Pune,Shampoo,34
+2025-06-18,Chennai,Shampoo,44
+2025-06-18,Lucknow,Shampoo,53
+2025-06-18,Delhi,Toothpaste,61
+2025-06-18,Nagpur,Toothpaste,41
+2025-06-18,Pune,Toothpaste,7
+2025-06-18,Chennai,Toothpaste,70
+2025-06-18,Lucknow,Toothpaste,61
+2025-06-18,Delhi,Juice,23
+2025-06-18,Nagpur,Juice,40
+2025-06-18,Pune,Juice,73
+2025-06-18,Chennai,Juice,71
+2025-06-18,Lucknow,Juice,64
+2025-06-19,Delhi,Milk,47
+2025-06-19,Nagpur,Milk,51
+2025-06-19,Pune,Milk,48
+2025-06-19,Chennai,Milk,66
+2025-06-19,Lucknow,Milk,36
+2025-06-19,Delhi,Chips,37
+2025-06-19,Nagpur,Chips,65
+2025-06-19,Pune,Chips,49
+2025-06-19,Chennai,Chips,70
+2025-06-19,Lucknow,Chips,39
+2025-06-19,Delhi,Soap,49
+2025-06-19,Nagpur,Soap,36
+2025-06-19,Pune,Soap,50
+2025-06-19,Chennai,Soap,27
+2025-06-19,Lucknow,Soap,42
+2025-06-19,Delhi,Water Bottle,28
+2025-06-19,Nagpur,Water Bottle,60
+2025-06-19,Pune,Water Bottle,60
+2025-06-19,Chennai,Water Bottle,24
+2025-06-19,Lucknow,Water Bottle,70
+2025-06-19,Delhi,Biscuits,87
+2025-06-19,Nagpur,Biscuits,50
+2025-06-19,Pune,Biscuits,40
+2025-06-19,Chennai,Biscuits,92
+2025-06-19,Lucknow,Biscuits,30
+2025-06-19,Delhi,Rice,50
+2025-06-19,Nagpur,Rice,52
+2025-06-19,Pune,Rice,70
+2025-06-19,Chennai,Rice,55
+2025-06-19,Lucknow,Rice,42
+2025-06-19,Delhi,Oil,35
+2025-06-19,Nagpur,Oil,44
+2025-06-19,Pune,Oil,34
+2025-06-19,Chennai,Oil,50
+2025-06-19,Lucknow,Oil,41
+2025-06-19,Delhi,Shampoo,27
+2025-06-19,Nagpur,Shampoo,68
+2025-06-19,Pune,Shampoo,42
+2025-06-19,Chennai,Shampoo,30
+2025-06-19,Lucknow,Shampoo,47
+2025-06-19,Delhi,Toothpaste,51
+2025-06-19,Nagpur,Toothpaste,23
+2025-06-19,Pune,Toothpaste,54
+2025-06-19,Chennai,Toothpaste,34
+2025-06-19,Lucknow,Toothpaste,75
+2025-06-19,Delhi,Juice,57
+2025-06-19,Nagpur,Juice,44
+2025-06-19,Pune,Juice,38
+2025-06-19,Chennai,Juice,48
+2025-06-19,Lucknow,Juice,59
+2025-06-20,Delhi,Milk,49
+2025-06-20,Nagpur,Milk,46
+2025-06-20,Pune,Milk,50
+2025-06-20,Chennai,Milk,40
+2025-06-20,Lucknow,Milk,44
+2025-06-20,Delhi,Chips,18
+2025-06-20,Nagpur,Chips,64
+2025-06-20,Pune,Chips,54
+2025-06-20,Chennai,Chips,38
+2025-06-20,Lucknow,Chips,78
+2025-06-20,Delhi,Soap,51
+2025-06-20,Nagpur,Soap,34
+2025-06-20,Pune,Soap,62
+2025-06-20,Chennai,Soap,55
+2025-06-20,Lucknow,Soap,55
+2025-06-20,Delhi,Water Bottle,43
+2025-06-20,Nagpur,Water Bottle,56
+2025-06-20,Pune,Water Bottle,46
+2025-06-20,Chennai,Water Bottle,58
+2025-06-20,Lucknow,Water Bottle,21
+2025-06-20,Delhi,Biscuits,43
+2025-06-20,Nagpur,Biscuits,75
+2025-06-20,Pune,Biscuits,38
+2025-06-20,Chennai,Biscuits,40
+2025-06-20,Lucknow,Biscuits,43
+2025-06-20,Delhi,Rice,31
+2025-06-20,Nagpur,Rice,16
+2025-06-20,Pune,Rice,46
+2025-06-20,Chennai,Rice,52
+2025-06-20,Lucknow,Rice,49
+2025-06-20,Delhi,Oil,47
+2025-06-20,Nagpur,Oil,50
+2025-06-20,Pune,Oil,65
+2025-06-20,Chennai,Oil,47
+2025-06-20,Lucknow,Oil,41
+2025-06-20,Delhi,Shampoo,45
+2025-06-20,Nagpur,Shampoo,58
+2025-06-20,Pune,Shampoo,71
+2025-06-20,Chennai,Shampoo,40
+2025-06-20,Lucknow,Shampoo,51
+2025-06-20,Delhi,Toothpaste,55
+2025-06-20,Nagpur,Toothpaste,35
+2025-06-20,Pune,Toothpaste,50
+2025-06-20,Chennai,Toothpaste,28
+2025-06-20,Lucknow,Toothpaste,23
+2025-06-20,Delhi,Juice,55
+2025-06-20,Nagpur,Juice,44
+2025-06-20,Pune,Juice,53
+2025-06-20,Chennai,Juice,49
+2025-06-20,Lucknow,Juice,35
+2025-06-21,Delhi,Milk,49
+2025-06-21,Nagpur,Milk,31
+2025-06-21,Pune,Milk,70
+2025-06-21,Chennai,Milk,29
+2025-06-21,Lucknow,Milk,47
+2025-06-21,Delhi,Chips,34
+2025-06-21,Nagpur,Chips,58
+2025-06-21,Pune,Chips,45
+2025-06-21,Chennai,Chips,42
+2025-06-21,Lucknow,Chips,62
+2025-06-21,Delhi,Soap,50
+2025-06-21,Nagpur,Soap,57
+2025-06-21,Pune,Soap,35
+2025-06-21,Chennai,Soap,28
+2025-06-21,Lucknow,Soap,51
+2025-06-21,Delhi,Water Bottle,45
+2025-06-21,Nagpur,Water Bottle,59
+2025-06-21,Pune,Water Bottle,48
+2025-06-21,Chennai,Water Bottle,53
+2025-06-21,Lucknow,Water Bottle,25
+2025-06-21,Delhi,Biscuits,78
+2025-06-21,Nagpur,Biscuits,47
+2025-06-21,Pune,Biscuits,60
+2025-06-21,Chennai,Biscuits,37
+2025-06-21,Lucknow,Biscuits,54
+2025-06-21,Delhi,Rice,30
+2025-06-21,Nagpur,Rice,56
+2025-06-21,Pune,Rice,44
+2025-06-21,Chennai,Rice,50
+2025-06-21,Lucknow,Rice,60
+2025-06-21,Delhi,Oil,31
+2025-06-21,Nagpur,Oil,39
+2025-06-21,Pune,Oil,56
+2025-06-21,Chennai,Oil,81
+2025-06-21,Lucknow,Oil,47
+2025-06-21,Delhi,Shampoo,58
+2025-06-21,Nagpur,Shampoo,48
+2025-06-21,Pune,Shampoo,79
+2025-06-21,Chennai,Shampoo,23
+2025-06-21,Lucknow,Shampoo,51
+2025-06-21,Delhi,Toothpaste,25
+2025-06-21,Nagpur,Toothpaste,12
+2025-06-21,Pune,Toothpaste,54
+2025-06-21,Chennai,Toothpaste,52
+2025-06-21,Lucknow,Toothpaste,45
+2025-06-21,Delhi,Juice,48
+2025-06-21,Nagpur,Juice,96
+2025-06-21,Pune,Juice,46
+2025-06-21,Chennai,Juice,57
+2025-06-21,Lucknow,Juice,40
+2025-06-22,Delhi,Milk,54
+2025-06-22,Nagpur,Milk,46
+2025-06-22,Pune,Milk,43
+2025-06-22,Chennai,Milk,77
+2025-06-22,Lucknow,Milk,67
+2025-06-22,Delhi,Chips,52
+2025-06-22,Nagpur,Chips,15
+2025-06-22,Pune,Chips,44
+2025-06-22,Chennai,Chips,90
+2025-06-22,Lucknow,Chips,46
+2025-06-22,Delhi,Soap,66
+2025-06-22,Nagpur,Soap,71
+2025-06-22,Pune,Soap,53
+2025-06-22,Chennai,Soap,37
+2025-06-22,Lucknow,Soap,13
+2025-06-22,Delhi,Water Bottle,60
+2025-06-22,Nagpur,Water Bottle,37
+2025-06-22,Pune,Water Bottle,52
+2025-06-22,Chennai,Water Bottle,31
+2025-06-22,Lucknow,Water Bottle,46
+2025-06-22,Delhi,Biscuits,50
+2025-06-22,Nagpur,Biscuits,54
+2025-06-22,Pune,Biscuits,33
+2025-06-22,Chennai,Biscuits,67
+2025-06-22,Lucknow,Biscuits,41
+2025-06-22,Delhi,Rice,24
+2025-06-22,Nagpur,Rice,48
+2025-06-22,Pune,Rice,50
+2025-06-22,Chennai,Rice,52
+2025-06-22,Lucknow,Rice,70
+2025-06-22,Delhi,Oil,46
+2025-06-22,Nagpur,Oil,48
+2025-06-22,Pune,Oil,33
+2025-06-22,Chennai,Oil,62
+2025-06-22,Lucknow,Oil,52
+2025-06-22,Delhi,Shampoo,43
+2025-06-22,Nagpur,Shampoo,21
+2025-06-22,Pune,Shampoo,71
+2025-06-22,Chennai,Shampoo,31
+2025-06-22,Lucknow,Shampoo,41
+2025-06-22,Delhi,Toothpaste,55
+2025-06-22,Nagpur,Toothpaste,32
+2025-06-22,Pune,Toothpaste,27
+2025-06-22,Chennai,Toothpaste,18
+2025-06-22,Lucknow,Toothpaste,60
+2025-06-22,Delhi,Juice,41
+2025-06-22,Nagpur,Juice,93
+2025-06-22,Pune,Juice,35
+2025-06-22,Chennai,Juice,36
+2025-06-22,Lucknow,Juice,41
+2025-06-23,Delhi,Milk,53
+2025-06-23,Nagpur,Milk,42
+2025-06-23,Pune,Milk,59
+2025-06-23,Chennai,Milk,35
+2025-06-23,Lucknow,Milk,29
+2025-06-23,Delhi,Chips,23
+2025-06-23,Nagpur,Chips,16
+2025-06-23,Pune,Chips,42
+2025-06-23,Chennai,Chips,45
+2025-06-23,Lucknow,Chips,40
+2025-06-23,Delhi,Soap,68
+2025-06-23,Nagpur,Soap,68
+2025-06-23,Pune,Soap,44
+2025-06-23,Chennai,Soap,23
+2025-06-23,Lucknow,Soap,41
+2025-06-23,Delhi,Water Bottle,41
+2025-06-23,Nagpur,Water Bottle,40
+2025-06-23,Pune,Water Bottle,39
+2025-06-23,Chennai,Water Bottle,40
+2025-06-23,Lucknow,Water Bottle,44
+2025-06-23,Delhi,Biscuits,40
+2025-06-23,Nagpur,Biscuits,53
+2025-06-23,Pune,Biscuits,55
+2025-06-23,Chennai,Biscuits,36
+2025-06-23,Lucknow,Biscuits,69
+2025-06-23,Delhi,Rice,35
+2025-06-23,Nagpur,Rice,25
+2025-06-23,Pune,Rice,55
+2025-06-23,Chennai,Rice,37
+2025-06-23,Lucknow,Rice,54
+2025-06-23,Delhi,Oil,13
+2025-06-23,Nagpur,Oil,70
+2025-06-23,Pune,Oil,60
+2025-06-23,Chennai,Oil,27
+2025-06-23,Lucknow,Oil,27
+2025-06-23,Delhi,Shampoo,75
+2025-06-23,Nagpur,Shampoo,38
+2025-06-23,Pune,Shampoo,37
+2025-06-23,Chennai,Shampoo,16
+2025-06-23,Lucknow,Shampoo,44
+2025-06-23,Delhi,Toothpaste,46
+2025-06-23,Nagpur,Toothpaste,60
+2025-06-23,Pune,Toothpaste,29
+2025-06-23,Chennai,Toothpaste,27
+2025-06-23,Lucknow,Toothpaste,56
+2025-06-23,Delhi,Juice,65
+2025-06-23,Nagpur,Juice,26
+2025-06-23,Pune,Juice,66
+2025-06-23,Chennai,Juice,50
+2025-06-23,Lucknow,Juice,66
+2025-06-24,Delhi,Milk,48
+2025-06-24,Nagpur,Milk,12
+2025-06-24,Pune,Milk,47
+2025-06-24,Chennai,Milk,65
+2025-06-24,Lucknow,Milk,36
+2025-06-24,Delhi,Chips,44
+2025-06-24,Nagpur,Chips,47
+2025-06-24,Pune,Chips,6
+2025-06-24,Chennai,Chips,75
+2025-06-24,Lucknow,Chips,36
+2025-06-24,Delhi,Soap,57
+2025-06-24,Nagpur,Soap,48
+2025-06-24,Pune,Soap,68
+2025-06-24,Chennai,Soap,56
+2025-06-24,Lucknow,Soap,46
+2025-06-24,Delhi,Water Bottle,36
+2025-06-24,Nagpur,Water Bottle,61
+2025-06-24,Pune,Water Bottle,21
+2025-06-24,Chennai,Water Bottle,59
+2025-06-24,Lucknow,Water Bottle,33
+2025-06-24,Delhi,Biscuits,68
+2025-06-24,Nagpur,Biscuits,52
+2025-06-24,Pune,Biscuits,59
+2025-06-24,Chennai,Biscuits,51
+2025-06-24,Lucknow,Biscuits,23
+2025-06-24,Delhi,Rice,37
+2025-06-24,Nagpur,Rice,60
+2025-06-24,Pune,Rice,52
+2025-06-24,Chennai,Rice,67
+2025-06-24,Lucknow,Rice,56
+2025-06-24,Delhi,Oil,35
+2025-06-24,Nagpur,Oil,38
+2025-06-24,Pune,Oil,51
+2025-06-24,Chennai,Oil,15
+2025-06-24,Lucknow,Oil,75
+2025-06-24,Delhi,Shampoo,56
+2025-06-24,Nagpur,Shampoo,68
+2025-06-24,Pune,Shampoo,26
+2025-06-24,Chennai,Shampoo,68
+2025-06-24,Lucknow,Shampoo,83
+2025-06-24,Delhi,Toothpaste,30
+2025-06-24,Nagpur,Toothpaste,61
+2025-06-24,Pune,Toothpaste,50
+2025-06-24,Chennai,Toothpaste,26
+2025-06-24,Lucknow,Toothpaste,57
+2025-06-24,Delhi,Juice,62
+2025-06-24,Nagpur,Juice,40
+2025-06-24,Pune,Juice,67
+2025-06-24,Chennai,Juice,24
+2025-06-24,Lucknow,Juice,27
+2025-06-25,Delhi,Milk,52
+2025-06-25,Nagpur,Milk,50
+2025-06-25,Pune,Milk,39
+2025-06-25,Chennai,Milk,62
+2025-06-25,Lucknow,Milk,57
+2025-06-25,Delhi,Chips,62
+2025-06-25,Nagpur,Chips,48
+2025-06-25,Pune,Chips,59
+2025-06-25,Chennai,Chips,43
+2025-06-25,Lucknow,Chips,80
+2025-06-25,Delhi,Soap,37
+2025-06-25,Nagpur,Soap,81
+2025-06-25,Pune,Soap,50
+2025-06-25,Chennai,Soap,29
+2025-06-25,Lucknow,Soap,70
+2025-06-25,Delhi,Water Bottle,51
+2025-06-25,Nagpur,Water Bottle,62
+2025-06-25,Pune,Water Bottle,68
+2025-06-25,Chennai,Water Bottle,55
+2025-06-25,Lucknow,Water Bottle,41
+2025-06-25,Delhi,Biscuits,64
+2025-06-25,Nagpur,Biscuits,50
+2025-06-25,Pune,Biscuits,60
+2025-06-25,Chennai,Biscuits,17
+2025-06-25,Lucknow,Biscuits,56
+2025-06-25,Delhi,Rice,40
+2025-06-25,Nagpur,Rice,74
+2025-06-25,Pune,Rice,59
+2025-06-25,Chennai,Rice,53
+2025-06-25,Lucknow,Rice,57
+2025-06-25,Delhi,Oil,35
+2025-06-25,Nagpur,Oil,74
+2025-06-25,Pune,Oil,79
+2025-06-25,Chennai,Oil,55
+2025-06-25,Lucknow,Oil,73
+2025-06-25,Delhi,Shampoo,41
+2025-06-25,Nagpur,Shampoo,38
+2025-06-25,Pune,Shampoo,50
+2025-06-25,Chennai,Shampoo,56
+2025-06-25,Lucknow,Shampoo,44
+2025-06-25,Delhi,Toothpaste,58
+2025-06-25,Nagpur,Toothpaste,54
+2025-06-25,Pune,Toothpaste,35
+2025-06-25,Chennai,Toothpaste,57
+2025-06-25,Lucknow,Toothpaste,62
+2025-06-25,Delhi,Juice,52
+2025-06-25,Nagpur,Juice,67
+2025-06-25,Pune,Juice,31
+2025-06-25,Chennai,Juice,57
+2025-06-25,Lucknow,Juice,32

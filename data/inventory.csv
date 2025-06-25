@@ -1,0 +1,51 @@
+SKU,Zone,Current_Stock,Target_Stock
+Milk,Delhi,754,357
+Milk,Nagpur,125,679
+Milk,Pune,381,425
+Milk,Chennai,328,371
+Milk,Lucknow,854,352
+Chips,Delhi,792,679
+Chips,Nagpur,658,344
+Chips,Pune,704,516
+Chips,Chennai,132,315
+Chips,Lucknow,195,411
+Soap,Delhi,338,558
+Soap,Nagpur,716,313
+Soap,Pune,674,401
+Soap,Chennai,833,632
+Soap,Lucknow,818,579
+Water Bottle,Delhi,529,412
+Water Bottle,Nagpur,559,601
+Water Bottle,Pune,384,714
+Water Bottle,Chennai,990,303
+Water Bottle,Lucknow,877,712
+Biscuits,Delhi,263,657
+Biscuits,Nagpur,532,474
+Biscuits,Pune,384,379
+Biscuits,Chennai,320,790
+Biscuits,Lucknow,881,472
+Rice,Delhi,204,347
+Rice,Nagpur,489,349
+Rice,Pune,467,733
+Rice,Chennai,452,609
+Rice,Lucknow,370,713
+Oil,Delhi,144,673
+Oil,Nagpur,570,574
+Oil,Pune,227,798
+Oil,Chennai,487,340
+Oil,Lucknow,665,450
+Shampoo,Delhi,949,621
+Shampoo,Nagpur,733,753
+Shampoo,Pune,982,485
+Shampoo,Chennai,691,398
+Shampoo,Lucknow,821,335
+Toothpaste,Delhi,146,638
+Toothpaste,Nagpur,333,695
+Toothpaste,Pune,396,340
+Toothpaste,Chennai,975,419
+Toothpaste,Lucknow,987,351
+Juice,Delhi,489,442
+Juice,Nagpur,564,625
+Juice,Pune,954,486
+Juice,Chennai,266,489
+Juice,Lucknow,463,407
